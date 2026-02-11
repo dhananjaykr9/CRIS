@@ -13,6 +13,10 @@ from pathlib import Path
 # ──────────────────────────────────────────────
 # Connection Configuration
 # ──────────────────────────────────────────────
+DB_TYPE = os.getenv("CRIS_DB_TYPE", "sqlserver")  # Options: sqlserver, sqlite
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+SQLITE_DB_PATH = PROJECT_ROOT / "data" / "cris.db"
+
 DB_CONFIG = {
     "server": os.getenv("CRIS_DB_SERVER", "localhost"),
     "port": os.getenv("CRIS_DB_PORT", "1434"),
@@ -37,14 +41,26 @@ def get_connection_string(include_db: bool = True) -> str:
 
 
 def get_engine(include_db: bool = True):
-    """Create SQLAlchemy engine with pyodbc backend."""
+    """Create SQLAlchemy engine (SQL Server or SQLite)."""
+    if DB_TYPE == "sqlite":
+        # SQLite connection
+        if not SQLITE_DB_PATH.exists():
+            raise FileNotFoundError(f"SQLite DB not found at {SQLITE_DB_PATH}. Run src/export_to_sqlite.py first.")
+        return create_engine(f"sqlite:///{SQLITE_DB_PATH}", echo=False)
+    
+    # SQL Server connection
     conn_str = get_connection_string(include_db)
     url = f"mssql+pyodbc:///?odbc_connect={conn_str}"
+    print(f"DEBUG: Connection string: {url}")
     return create_engine(url, echo=False)
 
 
 def run_query(sql: str, params: dict = None) -> pd.DataFrame:
     """Execute a SELECT query and return results as a DataFrame."""
+    # Adapt SQL for SQLite if needed
+    if DB_TYPE == "sqlite":
+        sql = sql.replace("dbo.", "")
+        
     engine = get_engine()
     with engine.connect() as conn:
         return pd.read_sql(text(sql), conn, params=params)

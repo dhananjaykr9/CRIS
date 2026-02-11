@@ -21,6 +21,7 @@ venv/
 
 # Docker
 sqlserver_data/
+!data/cris.db
 
 # IDE
 .vscode/
