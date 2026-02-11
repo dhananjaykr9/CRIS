@@ -1,0 +1,3006 @@
+item_id,order_id,product_name,category,quantity,unit_price
+1,1,Hair Oil,Beauty,3,1435.35
+2,1,Sticky Notes,Office,4,578.93
+3,1,Almonds,Food,4,857.28
+4,2,Phone Case,Electronics,2,1340.94
+5,2,Jeans,Clothing,2,824.24
+6,3,Jacket,Clothing,1,101.41
+7,4,Multivitamin,Health,1,561.78
+8,4,Coffee Mug,Home & Kitchen,4,653.27
+9,4,Stats Book,Books,3,914.16
+10,4,Knife Set,Home & Kitchen,2,105.71
+11,5,Perfume,Beauty,4,1951.21
+12,5,Whey Protein,Health,4,313.47
+13,5,Omega-3,Health,4,1280.54
+14,6,Stuffed Animal,Toys,3,1822.4
+15,6,Honey,Food,2,1619.18
+16,6,Almonds,Food,3,853.8
+17,6,Towel Set,Home & Kitchen,1,50.18
+18,6,Towel Set,Home & Kitchen,3,964.94
+19,7,Oats,Food,3,67.81
+20,8,Dumbbells,Sports,2,1603.7
+21,8,Whey Protein,Health,2,852.88
+22,8,Bandages,Health,4,537.3
+23,8,LEGO Set,Toys,2,562.81
+24,9,AI Primer,Books,3,605.12
+25,9,Whey Protein,Health,4,416.6
+26,9,Jeans,Clothing,2,614.71
+27,9,Honey,Food,4,580.66
+28,10,Green Tea,Food,3,87.82
+29,10,Smart Watch,Electronics,1,412.58
+30,10,Sneakers,Clothing,3,293.83
+31,10,Dark Chocolate,Food,1,503.98
+32,10,Coffee Mug,Home & Kitchen,4,473.52
+33,11,Jump Rope,Sports,3,954.18
+34,11,USB Cable,Electronics,1,1694.92
+35,11,Coffee Mug,Home & Kitchen,3,1562.52
+36,11,Scarf,Clothing,4,404.13
+37,12,Puzzle,Toys,1,1950.47
+38,12,SQL Mastery,Books,4,531.97
+39,12,Phone Case,Electronics,4,1483.88
+40,13,Sanitizer,Health,2,972.01
+41,14,Shampoo,Beauty,1,1502.21
+42,14,Thermometer,Health,1,543.96
+43,14,Water Bottle,Sports,3,1780.66
+44,15,Jeans,Clothing,4,682.8
+45,15,Towel Set,Home & Kitchen,1,821.83
+46,16,Wireless Earbuds,Electronics,4,1392.39
+47,16,Towel Set,Home & Kitchen,1,535.01
+48,17,Socks,Clothing,3,1865.16
+49,17,Wireless Earbuds,Electronics,3,1306.92
+50,17,Multivitamin,Health,2,1001.29
+51,17,Sunscreen,Beauty,3,1620.77
+52,18,Python Handbook,Books,4,748.43
+53,18,Towel Set,Home & Kitchen,1,996.34
+54,18,Honey,Food,3,1108.33
+55,18,Green Tea,Food,2,1110.06
+56,19,Almonds,Food,2,184.31
+57,19,Blender,Home & Kitchen,3,1647.87
+58,19,Whey Protein,Health,4,51.4
+59,20,RC Car,Toys,2,1771.72
+60,20,Desk Lamp,Office,2,675.35
+61,20,Socks,Clothing,4,420.25
+62,20,Honey,Food,2,1245.43
+63,20,Perfume,Beauty,3,265.41
+64,21,T-Shirt,Clothing,2,398.35
+65,21,Phone Case,Electronics,1,996.47
+66,21,T-Shirt,Clothing,4,1332.95
+67,21,Thermometer,Health,3,145.72
+68,21,AI Primer,Books,1,75.52
+69,22,Protein Bar,Food,4,1611.99
+70,22,USB Cable,Electronics,4,1652.95
+71,23,Desk Lamp,Office,1,1481.89
+72,24,Jeans,Clothing,1,247.39
+73,24,AI Primer,Books,4,419.45
+74,24,Sanitizer,Health,2,1161.55
+75,25,Sanitizer,Health,4,1504.91
+76,25,Desk Lamp,Office,4,1419.97
+77,26,Jeans,Clothing,2,1122.43
+78,26,Whey Protein,Health,2,1091.11
+79,26,Mouse Pad,Office,3,1809.85
+80,26,Whey Protein,Health,3,854.07
+81,27,Sunscreen,Beauty,2,1148.13
+82,27,SQL Mastery,Books,3,752.02
+83,27,Oats,Food,4,50.38
+84,27,USB Cable,Electronics,1,1059.34
+85,28,USB Cable,Electronics,2,468.9
+86,28,Face Cream,Beauty,3,1842.27
+87,28,Thermometer,Health,2,233.86
+88,29,Shampoo,Beauty,2,566.73
+89,29,Pen Set,Office,2,549.68
+90,29,Yoga Mat,Sports,4,1159.68
+91,29,Stats Book,Books,1,1460.98
+92,30,Blender,Home & Kitchen,1,1210.7
+93,30,Yoga Mat,Sports,4,203.03
+94,30,USB Cable,Electronics,3,1765.6
+95,30,LEGO Set,Toys,1,1746.08
+96,31,Notebook,Office,4,155.55
+97,31,Multivitamin,Health,3,1102.86
+98,32,Sunscreen,Beauty,2,348.74
+99,32,LEGO Set,Toys,1,483.07
+100,33,Board Game,Toys,2,705.53
+101,33,Honey,Food,1,1118.9
+102,33,Yoga Mat,Sports,4,1028.56
+103,34,Blender,Home & Kitchen,2,1001.33
+104,34,Pen Set,Office,2,522.51
+105,35,Action Figure,Toys,1,269.43
+106,35,LEGO Set,Toys,3,729.2
+107,35,Lipstick,Beauty,1,1550.88
+108,36,Sunscreen,Beauty,4,1265.21
+109,36,Protein Bar,Food,2,439.39
+110,37,Plant Pot,Home & Kitchen,1,269.12
+111,37,Phone Case,Electronics,2,1744.07
+112,37,Yoga Mat,Sports,3,1402.9
+113,38,Jump Rope,Sports,4,94.36
+114,39,Omega-3,Health,2,1115.53
+115,39,Dumbbells,Sports,4,1264.93
+116,40,Power Bank,Electronics,1,548.14
+117,40,USB Cable,Electronics,2,1588.92
+118,41,Yoga Mat,Sports,4,1326.78
+119,41,Wireless Earbuds,Electronics,4,1337.73
+120,41,Face Cream,Beauty,1,620.37
+121,41,Board Game,Toys,4,1041.65
+122,41,Sneakers,Clothing,4,1740.21
+123,42,Jeans,Clothing,2,1026.27
+124,42,Honey,Food,1,127.52
+125,42,Whey Protein,Health,3,1005.37
+126,42,Coffee Mug,Home & Kitchen,3,1384.41
+127,42,Hair Oil,Beauty,3,510.6
+128,43,Yoga Mat,Sports,3,1763.42
+129,43,Smart Watch,Electronics,3,489.89
+130,43,Perfume,Beauty,2,221.2
+131,43,Stuffed Animal,Toys,2,863.8
+132,43,Pen Set,Office,4,1942.55
+133,44,Perfume,Beauty,2,453.18
+134,44,Candle,Home & Kitchen,2,1732.05
+135,44,Tennis Ball,Sports,2,888.63
+136,44,Plant Pot,Home & Kitchen,2,669.12
+137,44,Thermometer,Health,1,409.06
+138,45,USB Cable,Electronics,4,1924.33
+139,45,Jump Rope,Sports,3,346.32
+140,46,Jeans,Clothing,2,101.09
+141,46,Stapler,Office,3,1230.93
+142,47,AI Primer,Books,2,500.28
+143,47,USB Cable,Electronics,1,1391.88
+144,47,Green Tea,Food,4,1438.44
+145,47,Shampoo,Beauty,4,1008.32
+146,47,Knife Set,Home & Kitchen,2,491.23
+147,48,USB Cable,Electronics,4,483.98
+148,48,ML Guide,Books,1,395.3
+149,48,Honey,Food,4,1391.33
+150,48,Green Tea,Food,4,839.49
+151,49,Sticky Notes,Office,4,1454.39
+152,50,Sticky Notes,Office,1,1065.27
+153,50,Oats,Food,1,1761.67
+154,50,AI Primer,Books,4,1968.47
+155,50,Smart Watch,Electronics,4,1056.45
+156,51,Data Science 101,Books,4,826.18
+157,52,Jump Rope,Sports,2,873.8
+158,52,Notebook,Office,2,953.98
+159,52,Protein Bar,Food,1,400.55
+160,53,Omega-3,Health,4,856.44
+161,53,Protein Bar,Food,2,934.68
+162,53,SQL Mastery,Books,1,537.66
+163,53,Plant Pot,Home & Kitchen,1,227.82
+164,53,Dark Chocolate,Food,3,216.35
+165,54,Thermometer,Health,2,788.42
+166,54,Puzzle,Toys,2,1828.89
+167,54,Sticky Notes,Office,2,366.14
+168,54,Knife Set,Home & Kitchen,1,868.18
+169,55,Almonds,Food,2,279.23
+170,55,Knife Set,Home & Kitchen,1,1263.99
+171,55,Yoga Mat,Sports,4,1020.37
+172,56,Multivitamin,Health,4,513.86
+173,56,Sticky Notes,Office,4,934.79
+174,56,Protein Bar,Food,1,527.19
+175,56,Whey Protein,Health,2,145.39
+176,57,Bluetooth Speaker,Electronics,3,121.61
+177,57,Bluetooth Speaker,Electronics,3,695.67
+178,58,Wireless Earbuds,Electronics,4,1987.78
+179,59,Dumbbells,Sports,2,1934.27
+180,59,Desk Lamp,Office,1,231.6
+181,60,Lipstick,Beauty,4,1649.52
+182,60,Stuffed Animal,Toys,1,621.02
+183,60,Coffee Mug,Home & Kitchen,3,691.96
+184,61,Omega-3,Health,2,1243.5
+185,61,Scarf,Clothing,1,993.14
+186,61,Sticky Notes,Office,3,882.75
+187,61,Lipstick,Beauty,3,1857.86
+188,62,Mouse Pad,Office,4,1010.38
+189,62,Candle,Home & Kitchen,2,1431.74
+190,62,Python Handbook,Books,1,96.77
+191,62,Socks,Clothing,2,1609.15
+192,62,LEGO Set,Toys,1,700.89
+193,63,Python Handbook,Books,2,1395.53
+194,63,Yoga Mat,Sports,3,635.55
+195,63,Whey Protein,Health,1,271.98
+196,63,Lipstick,Beauty,4,1462.57
+197,63,Notebook,Office,2,428.33
+198,64,Oats,Food,1,1309.02
+199,64,Green Tea,Food,4,1789.51
+200,64,Whey Protein,Health,4,1578.78
+201,65,Smart Watch,Electronics,3,1151.64
+202,65,Sunscreen,Beauty,1,456.11
+203,65,Lipstick,Beauty,1,1940.75
+204,65,Yoga Mat,Sports,3,1968.06
+205,66,Candle,Home & Kitchen,4,415.39
+206,66,Sneakers,Clothing,3,1434.19
+207,66,Jump Rope,Sports,1,1019.26
+208,66,Data Science 101,Books,4,1667.44
+209,66,Water Bottle,Sports,3,391.27
+210,67,Phone Case,Electronics,1,915.36
+211,67,Power Bank,Electronics,2,420.91
+212,67,Dark Chocolate,Food,3,1562.29
+213,68,Scarf,Clothing,2,450.11
+214,68,Power Bank,Electronics,4,1441.67
+215,69,T-Shirt,Clothing,3,1868.06
+216,69,Notebook,Office,3,960.41
+217,69,Wireless Earbuds,Electronics,3,93.84
+218,69,Tennis Ball,Sports,2,675.72
+219,69,Data Science 101,Books,3,1087.94
+220,70,Sneakers,Clothing,2,357.12
+221,70,T-Shirt,Clothing,1,452.83
+222,70,Sunscreen,Beauty,3,578.55
+223,70,Dumbbells,Sports,2,383.99
+224,71,Desk Lamp,Office,4,148.92
+225,71,Power Bank,Electronics,1,256.56
+226,71,Wireless Earbuds,Electronics,4,814.24
+227,72,Sticky Notes,Office,4,1251.81
+228,72,Resistance Band,Sports,2,1440.15
+229,72,Multivitamin,Health,4,1157.19
+230,72,Socks,Clothing,4,239.66
+231,72,Tennis Ball,Sports,4,967.56
+232,73,Candle,Home & Kitchen,3,1830.08
+233,73,Board Game,Toys,3,1588.12
+234,74,Oats,Food,1,177.46
+235,74,Sneakers,Clothing,4,949.42
+236,74,Towel Set,Home & Kitchen,3,1228.66
+237,75,Multivitamin,Health,4,1644.23
+238,75,Sneakers,Clothing,1,1595.24
+239,76,Oats,Food,4,515.22
+240,76,AI Primer,Books,2,1949.09
+241,76,Puzzle,Toys,3,456.06
+242,76,Mouse Pad,Office,4,1156.06
+243,76,Sunscreen,Beauty,2,387.52
+244,77,Mouse Pad,Office,1,1204.72
+245,78,Sunscreen,Beauty,1,1652.94
+246,78,Towel Set,Home & Kitchen,4,185.73
+247,78,Socks,Clothing,4,688.45
+248,78,Wireless Earbuds,Electronics,2,1643.22
+249,79,Phone Case,Electronics,2,933.3
+250,79,Jump Rope,Sports,4,431.55
+251,79,Lipstick,Beauty,3,1841.08
+252,79,RC Car,Toys,3,1981.06
+253,79,Notebook,Office,4,1702.89
+254,80,USB Cable,Electronics,1,51.64
+255,80,Whey Protein,Health,1,1729.43
+256,80,Phone Case,Electronics,4,1419.33
+257,81,Hair Oil,Beauty,4,841.76
+258,81,Stuffed Animal,Toys,2,1341.85
+259,81,Green Tea,Food,2,1133.07
+260,81,Perfume,Beauty,2,612.52
+261,82,Coffee Mug,Home & Kitchen,1,1314.36
+262,82,Plant Pot,Home & Kitchen,4,1332.96
+263,83,Jeans,Clothing,4,1727.3
+264,83,Mouse Pad,Office,2,936.07
+265,84,Bandages,Health,4,742.85
+266,84,Blender,Home & Kitchen,1,1176.98
+267,84,Stats Book,Books,3,851.13
+268,84,Thermometer,Health,3,115.25
+269,85,Mouse Pad,Office,3,270.67
+270,86,Jeans,Clothing,3,956.63
+271,86,Scarf,Clothing,1,528.2
+272,86,Socks,Clothing,3,1245.43
+273,86,Sunscreen,Beauty,1,964.29
+274,87,Honey,Food,3,870.98
+275,87,Resistance Band,Sports,2,118.89
+276,87,Sticky Notes,Office,3,1467.59
+277,87,Desk Lamp,Office,1,1277.14
+278,87,Pen Set,Office,1,1329.82
+279,88,Notebook,Office,3,995.28
+280,88,Candle,Home & Kitchen,1,1710.32
+281,88,Resistance Band,Sports,2,1250.81
+282,89,Yoga Mat,Sports,1,1227.45
+283,89,Sticky Notes,Office,2,1335.35
+284,89,Shampoo,Beauty,3,1575.93
+285,90,Green Tea,Food,1,718.55
+286,90,Jeans,Clothing,2,1683.35
+287,91,Board Game,Toys,4,1465.7
+288,91,Knife Set,Home & Kitchen,3,155.94
+289,91,Yoga Mat,Sports,1,376.82
+290,91,LEGO Set,Toys,3,978.72
+291,92,SQL Mastery,Books,4,975.45
+292,92,Candle,Home & Kitchen,4,73.13
+293,92,Oats,Food,3,1925.44
+294,92,Wireless Earbuds,Electronics,3,1914.56
+295,92,Stuffed Animal,Toys,3,703.19
+296,93,Sneakers,Clothing,4,949.16
+297,93,Stats Book,Books,2,1063.91
+298,93,Towel Set,Home & Kitchen,1,1361.96
+299,94,Power Bank,Electronics,1,1074.27
+300,95,Shampoo,Beauty,3,541.2
+301,95,Wireless Earbuds,Electronics,1,160.92
+302,95,Sticky Notes,Office,2,1903.45
+303,95,Socks,Clothing,1,218.45
+304,96,Blender,Home & Kitchen,2,1797.2
+305,96,Towel Set,Home & Kitchen,3,960.56
+306,96,Socks,Clothing,4,1849.26
+307,96,Jump Rope,Sports,3,551.81
+308,96,Sneakers,Clothing,1,796.46
+309,97,USB Cable,Electronics,3,396.96
+310,97,Jacket,Clothing,2,1240.09
+311,97,Plant Pot,Home & Kitchen,4,261.44
+312,98,Board Game,Toys,1,1829.59
+313,98,Yoga Mat,Sports,1,192.19
+314,98,Sticky Notes,Office,3,1565.61
+315,98,Power Bank,Electronics,2,1323.09
+316,98,Wireless Earbuds,Electronics,4,569.55
+317,99,Stuffed Animal,Toys,1,1055.0
+318,99,Oats,Food,4,837.63
+319,99,Scarf,Clothing,2,56.45
+320,100,Scarf,Clothing,3,700.21
+321,100,Jump Rope,Sports,1,1282.93
+322,100,Sneakers,Clothing,3,206.89
+323,100,Almonds,Food,2,394.41
+324,101,RC Car,Toys,2,632.8
+325,102,Socks,Clothing,3,998.68
+326,102,Dark Chocolate,Food,2,322.89
+327,102,Python Handbook,Books,2,1004.0
+328,102,Scarf,Clothing,3,1024.38
+329,103,Wireless Earbuds,Electronics,3,159.31
+330,103,Power Bank,Electronics,1,462.77
+331,103,Bandages,Health,2,1495.05
+332,103,Python Handbook,Books,1,1484.15
+333,104,Power Bank,Electronics,1,523.23
+334,104,Coffee Mug,Home & Kitchen,2,1283.69
+335,104,Yoga Mat,Sports,4,1241.89
+336,104,Notebook,Office,1,272.65
+337,105,Pen Set,Office,1,1618.68
+338,105,Action Figure,Toys,4,682.26
+339,105,Stapler,Office,2,677.1
+340,105,Python Handbook,Books,2,704.23
+341,105,Sneakers,Clothing,2,1527.22
+342,106,Sunscreen,Beauty,2,905.39
+343,106,Notebook,Office,2,244.94
+344,107,Board Game,Toys,1,1765.27
+345,107,T-Shirt,Clothing,1,399.86
+346,107,Socks,Clothing,3,861.63
+347,107,Dark Chocolate,Food,2,452.01
+348,107,Dumbbells,Sports,4,853.46
+349,108,Sticky Notes,Office,1,1212.73
+350,108,Honey,Food,1,1273.02
+351,109,Perfume,Beauty,1,1137.54
+352,109,Python Handbook,Books,1,1256.9
+353,109,Thermometer,Health,2,955.22
+354,110,Yoga Mat,Sports,2,269.72
+355,110,Plant Pot,Home & Kitchen,4,1020.15
+356,111,Wireless Earbuds,Electronics,3,605.88
+357,111,Action Figure,Toys,3,1252.8
+358,112,Wireless Earbuds,Electronics,1,1853.48
+359,112,Knife Set,Home & Kitchen,1,995.87
+360,112,T-Shirt,Clothing,2,1456.74
+361,112,Stapler,Office,3,867.18
+362,113,Python Handbook,Books,3,494.18
+363,113,Stats Book,Books,4,1746.28
+364,113,Board Game,Toys,1,968.43
+365,114,Power Bank,Electronics,2,471.52
+366,114,Mouse Pad,Office,2,805.29
+367,114,Blender,Home & Kitchen,2,1282.44
+368,114,Water Bottle,Sports,3,298.06
+369,115,USB Cable,Electronics,2,266.66
+370,115,Oats,Food,4,383.84
+371,115,Shampoo,Beauty,3,1227.09
+372,115,Pen Set,Office,2,218.62
+373,115,Bandages,Health,2,1203.58
+374,116,Yoga Mat,Sports,4,1485.55
+375,116,ML Guide,Books,3,896.79
+376,116,AI Primer,Books,2,1831.82
+377,116,Power Bank,Electronics,1,128.11
+378,117,Multivitamin,Health,4,1085.69
+379,117,Dark Chocolate,Food,1,932.26
+380,117,Python Handbook,Books,1,1401.66
+381,117,Board Game,Toys,2,748.89
+382,118,T-Shirt,Clothing,4,1354.62
+383,118,Plant Pot,Home & Kitchen,4,1722.95
+384,119,Power Bank,Electronics,4,1555.08
+385,119,Board Game,Toys,3,1272.28
+386,119,Bluetooth Speaker,Electronics,1,800.51
+387,119,Sunscreen,Beauty,1,628.35
+388,119,Tennis Ball,Sports,2,1586.0
+389,120,Desk Lamp,Office,1,1053.74
+390,121,Wireless Earbuds,Electronics,4,762.9
+391,121,Notebook,Office,3,764.54
+392,121,Sanitizer,Health,1,1143.48
+393,122,Towel Set,Home & Kitchen,2,1102.29
+394,122,Dark Chocolate,Food,2,1518.69
+395,123,Lipstick,Beauty,3,1031.95
+396,123,Action Figure,Toys,1,173.57
+397,124,Oats,Food,1,966.82
+398,124,Sanitizer,Health,3,931.36
+399,124,Hair Oil,Beauty,1,417.29
+400,125,T-Shirt,Clothing,4,1800.99
+401,125,Yoga Mat,Sports,1,371.29
+402,125,Socks,Clothing,2,1017.84
+403,125,AI Primer,Books,1,621.68
+404,126,Blender,Home & Kitchen,3,869.25
+405,126,USB Cable,Electronics,2,172.75
+406,126,AI Primer,Books,3,852.8
+407,126,Hair Oil,Beauty,3,997.99
+408,126,Thermometer,Health,4,943.11
+409,127,Towel Set,Home & Kitchen,2,1589.07
+410,127,SQL Mastery,Books,3,1942.91
+411,127,Phone Case,Electronics,3,604.54
+412,127,Candle,Home & Kitchen,2,1438.03
+413,127,Water Bottle,Sports,2,1686.7
+414,128,Knife Set,Home & Kitchen,1,130.25
+415,128,Sunscreen,Beauty,2,909.73
+416,129,Knife Set,Home & Kitchen,1,1347.83
+417,129,Shampoo,Beauty,3,924.44
+418,129,Candle,Home & Kitchen,3,286.91
+419,130,LEGO Set,Toys,2,1898.19
+420,131,Coffee Mug,Home & Kitchen,3,1312.13
+421,131,Jump Rope,Sports,3,1940.73
+422,131,Sticky Notes,Office,2,1609.17
+423,132,Hair Oil,Beauty,1,1476.7
+424,132,Phone Case,Electronics,1,650.76
+425,132,Stuffed Animal,Toys,2,919.65
+426,132,Sneakers,Clothing,1,1235.89
+427,133,Stapler,Office,2,1573.5
+428,133,Water Bottle,Sports,1,213.0
+429,134,Scarf,Clothing,4,429.18
+430,134,Sunscreen,Beauty,1,1821.47
+431,134,Perfume,Beauty,2,1446.13
+432,134,Action Figure,Toys,4,777.02
+433,135,Lipstick,Beauty,3,1956.17
+434,135,Multivitamin,Health,2,1469.31
+435,135,Dark Chocolate,Food,4,1617.19
+436,136,Plant Pot,Home & Kitchen,4,1470.78
+437,136,Board Game,Toys,1,330.1
+438,136,Jump Rope,Sports,3,178.93
+439,137,Puzzle,Toys,1,848.45
+440,137,Jump Rope,Sports,2,1133.84
+441,137,Pen Set,Office,2,412.71
+442,137,Action Figure,Toys,4,132.35
+443,137,Dumbbells,Sports,3,1013.5
+444,138,Python Handbook,Books,1,350.35
+445,138,Tennis Ball,Sports,4,292.15
+446,138,Jump Rope,Sports,2,1009.18
+447,138,Python Handbook,Books,1,1541.2
+448,139,Scarf,Clothing,3,1183.08
+449,139,Mouse Pad,Office,3,1274.59
+450,139,Dark Chocolate,Food,1,777.74
+451,139,Notebook,Office,3,367.55
+452,140,Towel Set,Home & Kitchen,4,1762.72
+453,141,Shampoo,Beauty,1,581.71
+454,141,RC Car,Toys,3,144.99
+455,142,Sanitizer,Health,1,1052.04
+456,142,Coffee Mug,Home & Kitchen,2,1110.24
+457,142,Hair Oil,Beauty,3,579.34
+458,143,Scarf,Clothing,3,1655.46
+459,143,Phone Case,Electronics,3,777.38
+460,143,Oats,Food,3,1845.77
+461,144,Jeans,Clothing,2,1031.6
+462,144,AI Primer,Books,1,863.83
+463,145,Jeans,Clothing,1,985.06
+464,146,Shampoo,Beauty,4,1784.97
+465,146,Stapler,Office,3,385.8
+466,146,Yoga Mat,Sports,1,483.6
+467,147,Data Science 101,Books,2,459.19
+468,147,Jacket,Clothing,1,201.58
+469,148,Puzzle,Toys,2,260.24
+470,148,Thermometer,Health,1,964.71
+471,148,Yoga Mat,Sports,1,638.21
+472,148,Wireless Earbuds,Electronics,1,1844.19
+473,149,Pen Set,Office,2,1357.67
+474,149,Wireless Earbuds,Electronics,2,1699.43
+475,150,Desk Lamp,Office,3,363.09
+476,150,Sanitizer,Health,2,1034.57
+477,150,T-Shirt,Clothing,1,1081.24
+478,151,Water Bottle,Sports,1,1948.48
+479,151,Jeans,Clothing,4,764.6
+480,152,Blender,Home & Kitchen,1,402.65
+481,152,Perfume,Beauty,4,467.83
+482,152,SQL Mastery,Books,1,1534.75
+483,152,Face Cream,Beauty,4,265.12
+484,152,Blender,Home & Kitchen,3,1424.23
+485,153,Wireless Earbuds,Electronics,3,1012.74
+486,153,Action Figure,Toys,4,1220.76
+487,153,Tennis Ball,Sports,4,490.45
+488,153,Action Figure,Toys,4,418.13
+489,153,Jacket,Clothing,3,399.63
+490,154,Jacket,Clothing,4,1069.19
+491,154,T-Shirt,Clothing,2,819.88
+492,154,Notebook,Office,2,176.19
+493,154,Data Science 101,Books,2,1210.17
+494,155,Jeans,Clothing,4,1464.14
+495,155,Tennis Ball,Sports,3,1524.79
+496,155,Action Figure,Toys,4,1350.02
+497,155,LEGO Set,Toys,3,337.38
+498,156,T-Shirt,Clothing,3,1004.22
+499,156,Stats Book,Books,2,107.96
+500,156,Wireless Earbuds,Electronics,4,1372.31
+501,156,Blender,Home & Kitchen,3,347.84
+502,157,Notebook,Office,1,1339.11
+503,157,Bandages,Health,4,443.77
+504,157,Oats,Food,3,1107.75
+505,157,Thermometer,Health,1,1907.53
+506,157,Power Bank,Electronics,1,798.08
+507,158,LEGO Set,Toys,4,120.16
+508,158,Candle,Home & Kitchen,3,1775.17
+509,158,Blender,Home & Kitchen,4,312.25
+510,159,Protein Bar,Food,4,1337.15
+511,159,Thermometer,Health,4,978.03
+512,159,Candle,Home & Kitchen,1,813.2
+513,159,Honey,Food,4,1253.03
+514,160,Resistance Band,Sports,1,104.89
+515,160,Phone Case,Electronics,3,730.31
+516,160,Notebook,Office,3,792.12
+517,161,Lipstick,Beauty,4,734.98
+518,161,ML Guide,Books,2,1313.76
+519,161,Notebook,Office,1,1744.43
+520,161,Sneakers,Clothing,2,88.44
+521,162,Power Bank,Electronics,4,1157.7
+522,162,Action Figure,Toys,1,1407.12
+523,162,Notebook,Office,3,786.59
+524,163,Sunscreen,Beauty,1,1626.24
+525,163,Socks,Clothing,2,705.14
+526,163,Sanitizer,Health,3,374.92
+527,163,Resistance Band,Sports,4,443.43
+528,164,Omega-3,Health,3,567.05
+529,165,Mouse Pad,Office,2,1267.92
+530,165,Socks,Clothing,1,1204.14
+531,165,Yoga Mat,Sports,4,882.86
+532,166,Socks,Clothing,3,1034.05
+533,166,Jump Rope,Sports,3,440.15
+534,166,Action Figure,Toys,4,1359.54
+535,167,Coffee Mug,Home & Kitchen,2,1174.84
+536,167,Stats Book,Books,4,572.48
+537,167,Thermometer,Health,4,1872.54
+538,167,Smart Watch,Electronics,2,760.34
+539,167,Knife Set,Home & Kitchen,2,1505.55
+540,168,LEGO Set,Toys,3,1727.36
+541,168,Socks,Clothing,2,1699.64
+542,168,Resistance Band,Sports,2,550.07
+543,169,SQL Mastery,Books,2,271.44
+544,169,Python Handbook,Books,2,1604.24
+545,169,Jump Rope,Sports,4,1141.66
+546,169,LEGO Set,Toys,1,443.88
+547,169,Water Bottle,Sports,1,553.87
+548,170,Omega-3,Health,1,1929.38
+549,170,Protein Bar,Food,1,1726.19
+550,170,Sneakers,Clothing,3,1740.98
+551,171,Hair Oil,Beauty,1,823.95
+552,171,Knife Set,Home & Kitchen,1,1163.4
+553,171,Multivitamin,Health,3,1018.08
+554,171,Jeans,Clothing,1,1557.72
+555,172,Sunscreen,Beauty,4,1621.39
+556,172,SQL Mastery,Books,2,331.34
+557,172,Knife Set,Home & Kitchen,3,906.98
+558,173,Notebook,Office,4,1090.27
+559,173,Sneakers,Clothing,4,975.97
+560,173,Data Science 101,Books,2,757.85
+561,174,Yoga Mat,Sports,1,1690.87
+562,174,Bluetooth Speaker,Electronics,2,543.32
+563,174,Action Figure,Toys,3,1811.16
+564,175,Omega-3,Health,4,807.52
+565,176,Resistance Band,Sports,1,1875.83
+566,176,Data Science 101,Books,2,1725.86
+567,176,Blender,Home & Kitchen,3,1764.96
+568,176,Puzzle,Toys,3,1739.57
+569,177,Dark Chocolate,Food,4,1856.67
+570,177,Hair Oil,Beauty,4,1759.68
+571,177,Jeans,Clothing,3,1037.35
+572,177,Perfume,Beauty,3,933.86
+573,178,Bluetooth Speaker,Electronics,2,1278.8
+574,179,Power Bank,Electronics,2,1275.18
+575,179,Sunscreen,Beauty,1,266.11
+576,180,Sanitizer,Health,2,1701.57
+577,180,Action Figure,Toys,4,982.81
+578,181,Water Bottle,Sports,3,1609.08
+579,181,Python Handbook,Books,4,766.82
+580,182,Stuffed Animal,Toys,2,90.43
+581,182,Smart Watch,Electronics,2,1818.35
+582,182,Green Tea,Food,3,1417.46
+583,182,Coffee Mug,Home & Kitchen,4,1255.11
+584,183,Water Bottle,Sports,1,1918.16
+585,183,Candle,Home & Kitchen,1,77.52
+586,183,Bandages,Health,4,1663.15
+587,183,Protein Bar,Food,2,1441.45
+588,183,Data Science 101,Books,3,1505.56
+589,184,Blender,Home & Kitchen,2,1220.16
+590,184,Tennis Ball,Sports,2,865.75
+591,184,Board Game,Toys,1,615.88
+592,184,Water Bottle,Sports,4,1819.29
+593,185,Sticky Notes,Office,4,217.19
+594,185,Green Tea,Food,3,1950.08
+595,185,RC Car,Toys,2,1441.01
+596,186,Desk Lamp,Office,1,235.79
+597,186,Wireless Earbuds,Electronics,3,1865.58
+598,186,Almonds,Food,1,60.45
+599,186,Thermometer,Health,4,639.89
+600,187,Shampoo,Beauty,1,1181.95
+601,187,Water Bottle,Sports,4,1864.14
+602,187,Green Tea,Food,1,668.77
+603,187,Bandages,Health,2,557.79
+604,188,Phone Case,Electronics,4,1749.78
+605,188,Tennis Ball,Sports,3,1856.16
+606,188,Resistance Band,Sports,3,1058.1
+607,189,Towel Set,Home & Kitchen,4,1539.17
+608,189,Candle,Home & Kitchen,4,153.78
+609,189,Coffee Mug,Home & Kitchen,2,407.13
+610,189,Almonds,Food,2,1426.63
+611,190,Jacket,Clothing,1,910.96
+612,190,Bandages,Health,4,1011.33
+613,190,Coffee Mug,Home & Kitchen,3,232.48
+614,190,Water Bottle,Sports,2,1512.38
+615,191,Sticky Notes,Office,2,1187.92
+616,191,Smart Watch,Electronics,2,862.02
+617,191,Jeans,Clothing,4,1369.97
+618,192,USB Cable,Electronics,1,818.63
+619,192,Notebook,Office,3,349.86
+620,192,Jacket,Clothing,4,935.41
+621,193,Sticky Notes,Office,1,692.38
+622,193,Bluetooth Speaker,Electronics,4,683.59
+623,193,Pen Set,Office,2,1733.39
+624,194,Face Cream,Beauty,1,1116.95
+625,194,Mouse Pad,Office,1,827.77
+626,194,Knife Set,Home & Kitchen,4,223.92
+627,195,Blender,Home & Kitchen,4,605.62
+628,195,Coffee Mug,Home & Kitchen,3,1007.15
+629,196,Tennis Ball,Sports,2,750.14
+630,196,Sneakers,Clothing,2,1004.76
+631,196,LEGO Set,Toys,3,1147.96
+632,196,Puzzle,Toys,4,1631.44
+633,197,Blender,Home & Kitchen,4,231.25
+634,197,Whey Protein,Health,4,1369.06
+635,197,Blender,Home & Kitchen,1,616.87
+636,197,Puzzle,Toys,4,635.77
+637,197,Plant Pot,Home & Kitchen,3,1691.0
+638,198,Action Figure,Toys,1,1124.44
+639,198,Smart Watch,Electronics,1,1045.77
+640,198,Puzzle,Toys,4,1338.67
+641,198,Desk Lamp,Office,3,546.98
+642,198,Scarf,Clothing,1,272.17
+643,199,Knife Set,Home & Kitchen,4,138.25
+644,199,RC Car,Toys,3,662.2
+645,199,Dark Chocolate,Food,4,1266.43
+646,199,Resistance Band,Sports,2,461.58
+647,200,Desk Lamp,Office,1,895.91
+648,201,Power Bank,Electronics,1,75.94
+649,202,Dark Chocolate,Food,4,1744.12
+650,202,Sticky Notes,Office,4,640.46
+651,202,Desk Lamp,Office,4,1619.05
+652,202,Jeans,Clothing,2,77.06
+653,203,Bluetooth Speaker,Electronics,2,1725.07
+654,204,Dark Chocolate,Food,2,1316.99
+655,204,RC Car,Toys,2,217.88
+656,205,Blender,Home & Kitchen,4,92.54
+657,205,Knife Set,Home & Kitchen,4,1929.54
+658,205,Protein Bar,Food,4,1191.19
+659,205,Data Science 101,Books,4,149.3
+660,206,Socks,Clothing,4,1960.0
+661,207,Stapler,Office,3,122.18
+662,207,LEGO Set,Toys,4,502.22
+663,207,Smart Watch,Electronics,1,872.91
+664,207,Sunscreen,Beauty,1,572.31
+665,208,Protein Bar,Food,4,1264.26
+666,208,Perfume,Beauty,4,90.57
+667,208,Tennis Ball,Sports,2,965.02
+668,208,Green Tea,Food,2,1195.93
+669,209,Sticky Notes,Office,4,305.76
+670,209,Tennis Ball,Sports,4,1921.62
+671,209,Perfume,Beauty,2,1262.59
+672,210,Socks,Clothing,4,301.74
+673,210,ML Guide,Books,4,246.76
+674,210,LEGO Set,Toys,3,507.7
+675,211,Wireless Earbuds,Electronics,3,1767.77
+676,211,Hair Oil,Beauty,2,390.69
+677,211,Multivitamin,Health,1,708.58
+678,211,Scarf,Clothing,2,285.34
+679,211,SQL Mastery,Books,3,1987.64
+680,212,Smart Watch,Electronics,3,1797.82
+681,212,Thermometer,Health,1,1427.49
+682,212,Oats,Food,1,1950.59
+683,213,Notebook,Office,1,1039.25
+684,213,Plant Pot,Home & Kitchen,1,1748.2
+685,213,Shampoo,Beauty,3,1430.92
+686,213,Bandages,Health,1,350.88
+687,213,Lipstick,Beauty,2,289.82
+688,214,Oats,Food,1,528.37
+689,214,Almonds,Food,3,1034.79
+690,215,Resistance Band,Sports,4,753.25
+691,216,Candle,Home & Kitchen,4,1585.07
+692,216,Blender,Home & Kitchen,4,1840.14
+693,217,Sanitizer,Health,3,1890.29
+694,217,Green Tea,Food,1,1449.37
+695,217,Multivitamin,Health,1,709.69
+696,217,Board Game,Toys,4,169.86
+697,218,Candle,Home & Kitchen,1,1956.58
+698,219,Jump Rope,Sports,4,1777.28
+699,219,Whey Protein,Health,3,1823.0
+700,219,USB Cable,Electronics,2,1415.58
+701,219,Dark Chocolate,Food,2,1780.78
+702,219,Stapler,Office,4,1410.07
+703,220,Data Science 101,Books,1,122.09
+704,220,Perfume,Beauty,2,1064.92
+705,220,Whey Protein,Health,2,231.0
+706,220,Whey Protein,Health,3,1526.24
+707,221,Wireless Earbuds,Electronics,3,520.61
+708,221,Tennis Ball,Sports,4,1974.56
+709,222,USB Cable,Electronics,3,1272.63
+710,223,T-Shirt,Clothing,1,925.04
+711,223,Sticky Notes,Office,1,933.64
+712,223,Stats Book,Books,2,733.16
+713,224,Sticky Notes,Office,2,1442.98
+714,224,Sanitizer,Health,2,255.19
+715,224,Thermometer,Health,2,1654.54
+716,225,Protein Bar,Food,2,1437.7
+717,225,Puzzle,Toys,1,171.28
+718,225,Blender,Home & Kitchen,2,920.02
+719,226,Bandages,Health,4,1750.43
+720,226,Mouse Pad,Office,4,1993.2
+721,226,Dark Chocolate,Food,4,1656.43
+722,227,Omega-3,Health,4,1436.74
+723,227,Plant Pot,Home & Kitchen,1,1404.22
+724,228,Protein Bar,Food,2,1890.94
+725,228,Face Cream,Beauty,4,265.16
+726,228,Sunscreen,Beauty,3,128.55
+727,228,Coffee Mug,Home & Kitchen,3,644.6
+728,229,Resistance Band,Sports,4,104.56
+729,229,Knife Set,Home & Kitchen,4,144.87
+730,229,Resistance Band,Sports,2,407.0
+731,230,Wireless Earbuds,Electronics,3,181.75
+732,230,Power Bank,Electronics,4,1167.47
+733,230,Mouse Pad,Office,3,1573.63
+734,230,Dark Chocolate,Food,2,1535.8
+735,231,Oats,Food,4,340.52
+736,231,Face Cream,Beauty,4,805.11
+737,231,Action Figure,Toys,1,1918.26
+738,231,Dark Chocolate,Food,3,1309.54
+739,231,Plant Pot,Home & Kitchen,1,1165.39
+740,232,Sanitizer,Health,1,1305.63
+741,232,Jeans,Clothing,1,1916.72
+742,232,Omega-3,Health,4,1030.15
+743,233,Socks,Clothing,2,1926.63
+744,234,ML Guide,Books,4,215.06
+745,234,Thermometer,Health,3,833.51
+746,234,Power Bank,Electronics,1,712.92
+747,235,Puzzle,Toys,3,794.92
+748,235,T-Shirt,Clothing,1,1106.47
+749,236,Knife Set,Home & Kitchen,3,1548.19
+750,236,Towel Set,Home & Kitchen,4,1373.29
+751,236,Smart Watch,Electronics,3,403.84
+752,237,Jump Rope,Sports,1,674.08
+753,238,Lipstick,Beauty,4,1886.08
+754,238,T-Shirt,Clothing,2,517.26
+755,238,Stapler,Office,2,1011.31
+756,238,Bandages,Health,1,575.11
+757,239,Honey,Food,4,177.64
+758,239,Power Bank,Electronics,2,1831.78
+759,239,USB Cable,Electronics,1,530.32
+760,240,Towel Set,Home & Kitchen,4,919.67
+761,240,Omega-3,Health,2,777.95
+762,240,Knife Set,Home & Kitchen,4,1924.64
+763,240,Bandages,Health,1,51.95
+764,240,Honey,Food,3,1323.46
+765,241,Wireless Earbuds,Electronics,4,582.94
+766,241,Tennis Ball,Sports,4,1998.52
+767,242,Stapler,Office,3,138.7
+768,242,Thermometer,Health,1,636.24
+769,243,Jeans,Clothing,3,1762.64
+770,243,AI Primer,Books,3,1773.67
+771,243,Hair Oil,Beauty,3,1960.3
+772,243,Almonds,Food,2,1341.44
+773,244,Shampoo,Beauty,4,1920.04
+774,244,Face Cream,Beauty,2,1310.56
+775,244,Smart Watch,Electronics,4,58.34
+776,245,Blender,Home & Kitchen,4,1536.81
+777,246,Socks,Clothing,1,1100.37
+778,246,Dark Chocolate,Food,1,738.34
+779,246,Stuffed Animal,Toys,3,804.16
+780,246,Wireless Earbuds,Electronics,4,772.44
+781,246,SQL Mastery,Books,1,481.97
+782,247,Tennis Ball,Sports,3,423.45
+783,248,Tennis Ball,Sports,2,506.8
+784,248,Almonds,Food,1,597.47
+785,248,Pen Set,Office,1,432.37
+786,248,Puzzle,Toys,3,1159.75
+787,248,Green Tea,Food,2,1336.68
+788,249,Stapler,Office,2,177.45
+789,249,Plant Pot,Home & Kitchen,1,298.49
+790,249,Pen Set,Office,3,424.11
+791,249,Bluetooth Speaker,Electronics,3,1377.33
+792,249,Protein Bar,Food,4,1299.88
+793,250,Perfume,Beauty,4,584.37
+794,251,Oats,Food,3,1058.65
+795,251,Bluetooth Speaker,Electronics,2,141.58
+796,251,Stuffed Animal,Toys,4,666.67
+797,251,Board Game,Toys,3,209.53
+798,251,Notebook,Office,2,1957.29
+799,252,Jeans,Clothing,2,370.74
+800,252,Yoga Mat,Sports,1,104.35
+801,252,Puzzle,Toys,3,1688.99
+802,252,Python Handbook,Books,4,514.8
+803,253,USB Cable,Electronics,2,1889.92
+804,253,Stapler,Office,4,1539.99
+805,253,Honey,Food,1,216.79
+806,254,Power Bank,Electronics,3,1785.66
+807,255,Coffee Mug,Home & Kitchen,4,156.84
+808,256,Puzzle,Toys,1,1371.25
+809,256,Multivitamin,Health,3,1707.36
+810,256,Puzzle,Toys,4,504.57
+811,256,Sticky Notes,Office,1,934.15
+812,256,Oats,Food,1,712.25
+813,257,Honey,Food,3,1196.24
+814,258,T-Shirt,Clothing,1,1206.13
+815,259,Pen Set,Office,3,743.01
+816,259,Dark Chocolate,Food,4,412.55
+817,260,Wireless Earbuds,Electronics,2,657.75
+818,260,Stuffed Animal,Toys,3,656.82
+819,261,Knife Set,Home & Kitchen,4,651.92
+820,261,Lipstick,Beauty,3,1942.03
+821,261,Thermometer,Health,2,161.77
+822,261,Thermometer,Health,1,873.02
+823,261,ML Guide,Books,2,1581.26
+824,262,Stats Book,Books,4,1404.82
+825,262,Honey,Food,3,1711.42
+826,262,Desk Lamp,Office,3,866.46
+827,263,Jacket,Clothing,1,1017.06
+828,263,Bluetooth Speaker,Electronics,2,1401.78
+829,264,Pen Set,Office,2,987.46
+830,264,Hair Oil,Beauty,4,450.37
+831,264,Coffee Mug,Home & Kitchen,3,69.29
+832,264,Face Cream,Beauty,1,327.68
+833,265,Stats Book,Books,3,135.61
+834,265,Phone Case,Electronics,2,604.0
+835,265,Data Science 101,Books,2,712.64
+836,265,Omega-3,Health,2,432.18
+837,266,Yoga Mat,Sports,1,1671.32
+838,266,Blender,Home & Kitchen,1,709.85
+839,267,Jump Rope,Sports,2,770.8
+840,267,Hair Oil,Beauty,2,1885.27
+841,268,RC Car,Toys,1,281.06
+842,268,Knife Set,Home & Kitchen,2,1088.48
+843,268,Lipstick,Beauty,4,1955.11
+844,268,Python Handbook,Books,2,1716.15
+845,268,Water Bottle,Sports,3,531.98
+846,269,Candle,Home & Kitchen,4,458.01
+847,269,Jacket,Clothing,1,376.5
+848,269,RC Car,Toys,3,1022.25
+849,270,Towel Set,Home & Kitchen,3,1074.68
+850,270,Dark Chocolate,Food,4,973.83
+851,270,Mouse Pad,Office,1,454.04
+852,270,SQL Mastery,Books,2,822.0
+853,271,LEGO Set,Toys,2,1874.22
+854,271,Lipstick,Beauty,1,311.94
+855,271,Sneakers,Clothing,4,1061.7
+856,272,Notebook,Office,4,1048.91
+857,272,Perfume,Beauty,4,961.72
+858,273,Perfume,Beauty,3,582.39
+859,273,Phone Case,Electronics,4,505.89
+860,273,Sneakers,Clothing,1,624.31
+861,273,Thermometer,Health,1,1582.45
+862,274,T-Shirt,Clothing,1,752.46
+863,274,Omega-3,Health,3,433.46
+864,275,Resistance Band,Sports,3,421.75
+865,275,Pen Set,Office,3,66.64
+866,275,Resistance Band,Sports,3,1577.1
+867,276,Stuffed Animal,Toys,1,970.41
+868,276,Omega-3,Health,4,493.78
+869,276,SQL Mastery,Books,2,1055.86
+870,276,Bandages,Health,4,714.29
+871,277,Shampoo,Beauty,4,1551.76
+872,278,SQL Mastery,Books,4,1713.24
+873,278,USB Cable,Electronics,2,1176.14
+874,278,Towel Set,Home & Kitchen,1,1024.61
+875,278,Lipstick,Beauty,2,867.34
+876,279,Whey Protein,Health,3,1194.56
+877,279,Notebook,Office,2,349.7
+878,279,Sunscreen,Beauty,4,1961.34
+879,279,SQL Mastery,Books,1,1092.26
+880,280,Protein Bar,Food,3,1160.55
+881,280,Dark Chocolate,Food,3,231.82
+882,281,Omega-3,Health,1,1661.63
+883,282,Protein Bar,Food,2,438.05
+884,282,Action Figure,Toys,2,504.43
+885,282,Multivitamin,Health,4,162.03
+886,282,Multivitamin,Health,2,687.21
+887,282,LEGO Set,Toys,2,1979.71
+888,283,Bandages,Health,4,1499.13
+889,283,Board Game,Toys,2,1747.38
+890,284,RC Car,Toys,4,359.62
+891,284,Desk Lamp,Office,2,1029.83
+892,284,Almonds,Food,2,64.51
+893,285,Protein Bar,Food,4,1229.45
+894,285,AI Primer,Books,3,1825.09
+895,286,Oats,Food,1,1487.72
+896,286,Tennis Ball,Sports,4,726.22
+897,286,Jump Rope,Sports,2,859.35
+898,286,Candle,Home & Kitchen,4,942.76
+899,287,Notebook,Office,4,1412.36
+900,287,Phone Case,Electronics,2,583.86
+901,288,Tennis Ball,Sports,1,1411.19
+902,288,SQL Mastery,Books,4,1985.16
+903,288,Multivitamin,Health,3,199.24
+904,288,Scarf,Clothing,3,849.69
+905,288,Towel Set,Home & Kitchen,2,1036.83
+906,289,Wireless Earbuds,Electronics,4,793.25
+907,289,Board Game,Toys,4,123.66
+908,289,Yoga Mat,Sports,2,687.87
+909,289,Oats,Food,4,183.06
+910,290,Stats Book,Books,4,323.5
+911,290,Water Bottle,Sports,2,1685.07
+912,290,Notebook,Office,2,623.58
+913,290,Sanitizer,Health,4,378.48
+914,290,Bluetooth Speaker,Electronics,3,349.32
+915,291,Knife Set,Home & Kitchen,1,1790.74
+916,291,Omega-3,Health,4,1408.65
+917,291,Sanitizer,Health,1,811.71
+918,292,Protein Bar,Food,1,144.9
+919,292,Board Game,Toys,2,780.56
+920,292,ML Guide,Books,1,81.27
+921,293,USB Cable,Electronics,2,1375.92
+922,294,Python Handbook,Books,2,1461.82
+923,295,Stuffed Animal,Toys,1,1640.47
+924,296,Sanitizer,Health,2,1268.11
+925,296,Bandages,Health,4,285.57
+926,296,Python Handbook,Books,3,680.57
+927,297,RC Car,Toys,3,73.36
+928,298,Green Tea,Food,1,1333.03
+929,298,Tennis Ball,Sports,3,135.68
+930,299,Action Figure,Toys,4,1967.05
+931,299,Socks,Clothing,2,541.28
+932,300,Desk Lamp,Office,4,1371.91
+933,301,Shampoo,Beauty,3,1957.14
+934,301,Protein Bar,Food,3,84.42
+935,302,Oats,Food,2,1031.67
+936,302,Phone Case,Electronics,1,1251.88
+937,302,Sneakers,Clothing,2,1488.93
+938,302,AI Primer,Books,1,166.85
+939,302,Perfume,Beauty,3,443.92
+940,303,Stats Book,Books,1,514.22
+941,303,Mouse Pad,Office,3,311.82
+942,303,Hair Oil,Beauty,1,1065.7
+943,303,RC Car,Toys,3,1513.57
+944,304,Lipstick,Beauty,2,451.34
+945,304,Bluetooth Speaker,Electronics,2,1612.83
+946,305,Mouse Pad,Office,3,407.91
+947,305,Wireless Earbuds,Electronics,4,186.47
+948,306,Bluetooth Speaker,Electronics,2,1879.64
+949,306,Coffee Mug,Home & Kitchen,2,1205.63
+950,307,AI Primer,Books,1,881.17
+951,307,Almonds,Food,2,1457.26
+952,308,Board Game,Toys,2,641.05
+953,308,Mouse Pad,Office,2,580.13
+954,309,Sneakers,Clothing,4,786.55
+955,309,Oats,Food,4,1035.32
+956,309,Board Game,Toys,4,88.63
+957,309,LEGO Set,Toys,1,1529.77
+958,310,Stapler,Office,2,1128.06
+959,310,Towel Set,Home & Kitchen,4,954.12
+960,310,Almonds,Food,4,1146.18
+961,311,Sneakers,Clothing,2,1443.98
+962,311,ML Guide,Books,2,58.15
+963,311,Sanitizer,Health,3,1008.33
+964,311,LEGO Set,Toys,3,798.87
+965,312,Notebook,Office,4,1775.75
+966,312,Jacket,Clothing,2,428.74
+967,312,Action Figure,Toys,3,1043.74
+968,313,Hair Oil,Beauty,1,1319.27
+969,313,RC Car,Toys,2,522.59
+970,313,USB Cable,Electronics,1,1410.07
+971,313,Towel Set,Home & Kitchen,4,1891.32
+972,314,Water Bottle,Sports,2,74.06
+973,314,Socks,Clothing,4,825.45
+974,315,Scarf,Clothing,2,1758.21
+975,315,Blender,Home & Kitchen,3,1399.08
+976,315,Thermometer,Health,4,1192.86
+977,315,RC Car,Toys,1,263.08
+978,315,Desk Lamp,Office,2,574.59
+979,316,RC Car,Toys,3,62.52
+980,316,Blender,Home & Kitchen,1,238.9
+981,317,Bandages,Health,3,1479.43
+982,317,Knife Set,Home & Kitchen,3,413.48
+983,317,Knife Set,Home & Kitchen,4,404.87
+984,317,Jacket,Clothing,2,411.99
+985,318,Knife Set,Home & Kitchen,3,1966.75
+986,319,Dark Chocolate,Food,1,1743.31
+987,319,Coffee Mug,Home & Kitchen,3,217.13
+988,319,Sneakers,Clothing,1,717.2
+989,319,Pen Set,Office,4,996.13
+990,320,Wireless Earbuds,Electronics,3,1516.01
+991,321,Notebook,Office,1,461.58
+992,322,Stuffed Animal,Toys,3,1867.65
+993,323,Sunscreen,Beauty,4,706.27
+994,323,Lipstick,Beauty,2,1884.93
+995,323,LEGO Set,Toys,1,1951.84
+996,323,Face Cream,Beauty,1,940.99
+997,324,Coffee Mug,Home & Kitchen,1,1744.56
+998,324,Tennis Ball,Sports,2,768.44
+999,324,Sticky Notes,Office,4,1054.08
+1000,324,Python Handbook,Books,3,82.43
+1001,325,Bluetooth Speaker,Electronics,3,1371.96
+1002,325,AI Primer,Books,4,830.32
+1003,325,Notebook,Office,3,884.44
+1004,326,Socks,Clothing,4,623.03
+1005,326,Stats Book,Books,2,1746.22
+1006,326,Sticky Notes,Office,1,299.33
+1007,326,Sneakers,Clothing,4,377.7
+1008,327,Jacket,Clothing,2,524.54
+1009,327,Plant Pot,Home & Kitchen,1,255.67
+1010,327,Phone Case,Electronics,3,1810.16
+1011,327,Water Bottle,Sports,3,1348.57
+1012,328,Candle,Home & Kitchen,4,226.36
+1013,329,AI Primer,Books,1,1305.77
+1014,329,RC Car,Toys,4,1325.14
+1015,329,Bandages,Health,2,485.92
+1016,330,Yoga Mat,Sports,1,223.82
+1017,331,Stats Book,Books,1,1167.04
+1018,331,Towel Set,Home & Kitchen,4,1174.99
+1019,331,USB Cable,Electronics,1,1200.62
+1020,331,SQL Mastery,Books,4,673.3
+1021,331,Hair Oil,Beauty,2,1063.52
+1022,332,Pen Set,Office,1,820.86
+1023,332,Bandages,Health,3,332.17
+1024,332,Water Bottle,Sports,4,1375.96
+1025,332,Candle,Home & Kitchen,3,334.45
+1026,332,Smart Watch,Electronics,3,652.34
+1027,333,Tennis Ball,Sports,4,1280.6
+1028,334,Almonds,Food,4,164.68
+1029,334,Shampoo,Beauty,2,1703.74
+1030,335,Phone Case,Electronics,4,1468.42
+1031,335,Tennis Ball,Sports,2,1982.57
+1032,336,Action Figure,Toys,4,1371.9
+1033,336,Perfume,Beauty,4,190.06
+1034,336,Resistance Band,Sports,2,1417.16
+1035,336,Bandages,Health,1,305.26
+1036,336,Notebook,Office,3,942.19
+1037,337,Pen Set,Office,4,1407.11
+1038,337,Water Bottle,Sports,2,475.37
+1039,338,USB Cable,Electronics,1,1372.72
+1040,338,Blender,Home & Kitchen,4,1374.92
+1041,339,Wireless Earbuds,Electronics,3,1949.61
+1042,339,Coffee Mug,Home & Kitchen,1,1961.54
+1043,340,Mouse Pad,Office,2,1272.6
+1044,340,Board Game,Toys,1,281.66
+1045,340,LEGO Set,Toys,3,1391.57
+1046,341,RC Car,Toys,1,1566.58
+1047,341,Action Figure,Toys,4,766.28
+1048,342,T-Shirt,Clothing,1,1003.98
+1049,343,Python Handbook,Books,4,583.76
+1050,343,Scarf,Clothing,2,798.72
+1051,343,Action Figure,Toys,2,243.91
+1052,343,Socks,Clothing,2,840.39
+1053,343,Power Bank,Electronics,4,174.67
+1054,344,Sanitizer,Health,1,1519.34
+1055,344,Stats Book,Books,1,402.3
+1056,344,Sticky Notes,Office,2,60.38
+1057,344,Almonds,Food,1,126.33
+1058,344,Pen Set,Office,2,221.25
+1059,345,Wireless Earbuds,Electronics,1,1036.99
+1060,345,Sunscreen,Beauty,2,874.95
+1061,345,Phone Case,Electronics,3,140.02
+1062,346,Tennis Ball,Sports,4,322.72
+1063,346,Dark Chocolate,Food,3,1069.2
+1064,346,Sunscreen,Beauty,2,1391.46
+1065,346,Phone Case,Electronics,1,416.74
+1066,346,Water Bottle,Sports,2,1224.18
+1067,347,Desk Lamp,Office,3,300.56
+1068,347,Mouse Pad,Office,1,1122.2
+1069,348,RC Car,Toys,2,830.12
+1070,348,Sneakers,Clothing,4,1883.39
+1071,348,Candle,Home & Kitchen,2,187.59
+1072,349,Stats Book,Books,3,1149.1
+1073,349,Thermometer,Health,2,868.39
+1074,349,Towel Set,Home & Kitchen,4,788.94
+1075,350,Python Handbook,Books,3,293.01
+1076,350,Socks,Clothing,4,178.62
+1077,350,Sneakers,Clothing,3,1567.24
+1078,350,Knife Set,Home & Kitchen,3,69.23
+1079,350,Board Game,Toys,4,1905.98
+1080,351,Candle,Home & Kitchen,3,1198.21
+1081,352,Scarf,Clothing,3,1415.89
+1082,352,Dumbbells,Sports,3,1234.56
+1083,352,Phone Case,Electronics,3,1895.7
+1084,352,Board Game,Toys,3,1621.87
+1085,353,Thermometer,Health,4,979.88
+1086,353,Towel Set,Home & Kitchen,1,1388.98
+1087,353,Plant Pot,Home & Kitchen,2,328.21
+1088,353,Sticky Notes,Office,3,153.09
+1089,353,Hair Oil,Beauty,2,1372.52
+1090,354,Green Tea,Food,4,1973.18
+1091,354,Honey,Food,3,587.85
+1092,354,Stuffed Animal,Toys,2,645.12
+1093,354,Sneakers,Clothing,4,1552.63
+1094,355,T-Shirt,Clothing,2,1892.49
+1095,356,Notebook,Office,1,1499.65
+1096,356,Bandages,Health,1,1926.22
+1097,357,Sanitizer,Health,2,985.33
+1098,357,Sanitizer,Health,1,840.67
+1099,357,Pen Set,Office,1,1442.61
+1100,357,Sanitizer,Health,3,526.24
+1101,358,Notebook,Office,4,1931.06
+1102,358,Omega-3,Health,2,196.49
+1103,358,Candle,Home & Kitchen,3,1907.34
+1104,358,LEGO Set,Toys,4,382.44
+1105,358,Sneakers,Clothing,2,1671.87
+1106,359,Resistance Band,Sports,4,622.41
+1107,360,Bluetooth Speaker,Electronics,4,474.05
+1108,360,Tennis Ball,Sports,1,1874.06
+1109,361,Protein Bar,Food,3,61.49
+1110,361,Almonds,Food,3,740.09
+1111,361,USB Cable,Electronics,2,834.03
+1112,361,Wireless Earbuds,Electronics,4,1009.49
+1113,361,Scarf,Clothing,2,850.9
+1114,362,Phone Case,Electronics,3,490.89
+1115,362,Action Figure,Toys,3,760.77
+1116,362,Candle,Home & Kitchen,3,261.96
+1117,362,Dark Chocolate,Food,4,365.58
+1118,363,Puzzle,Toys,3,1772.97
+1119,363,Python Handbook,Books,2,605.55
+1120,363,Blender,Home & Kitchen,4,1500.65
+1121,364,Plant Pot,Home & Kitchen,2,1899.33
+1122,365,Jacket,Clothing,4,1122.74
+1123,365,Towel Set,Home & Kitchen,4,1028.62
+1124,365,Board Game,Toys,1,1917.47
+1125,366,Knife Set,Home & Kitchen,3,1025.0
+1126,367,Bluetooth Speaker,Electronics,3,887.85
+1127,367,Sticky Notes,Office,1,896.94
+1128,368,Jump Rope,Sports,1,1533.75
+1129,368,AI Primer,Books,2,1472.03
+1130,368,Knife Set,Home & Kitchen,3,1545.12
+1131,369,Stats Book,Books,4,436.9
+1132,369,Socks,Clothing,2,417.9
+1133,369,Sticky Notes,Office,2,497.3
+1134,370,Puzzle,Toys,3,1981.28
+1135,370,Blender,Home & Kitchen,1,1252.11
+1136,371,Power Bank,Electronics,4,1073.69
+1137,372,Data Science 101,Books,4,984.43
+1138,372,Bandages,Health,1,643.37
+1139,373,Lipstick,Beauty,3,1437.59
+1140,373,Data Science 101,Books,1,404.42
+1141,373,Wireless Earbuds,Electronics,3,463.36
+1142,374,Dumbbells,Sports,1,890.27
+1143,374,Jump Rope,Sports,3,701.85
+1144,374,T-Shirt,Clothing,1,1381.77
+1145,374,Towel Set,Home & Kitchen,3,1495.52
+1146,375,Stapler,Office,3,514.59
+1147,375,Water Bottle,Sports,4,220.1
+1148,375,Jeans,Clothing,1,130.03
+1149,376,Stats Book,Books,4,1854.73
+1150,376,Scarf,Clothing,3,637.88
+1151,377,AI Primer,Books,2,135.43
+1152,377,SQL Mastery,Books,3,1788.59
+1153,377,Whey Protein,Health,3,924.54
+1154,377,Jacket,Clothing,1,991.5
+1155,378,Multivitamin,Health,2,1218.35
+1156,378,Towel Set,Home & Kitchen,1,1913.82
+1157,378,Bluetooth Speaker,Electronics,2,1494.39
+1158,378,LEGO Set,Toys,1,372.76
+1159,378,Bandages,Health,4,831.66
+1160,379,ML Guide,Books,1,362.01
+1161,379,AI Primer,Books,1,1764.35
+1162,379,Bandages,Health,3,641.65
+1163,380,Tennis Ball,Sports,3,1126.69
+1164,380,Knife Set,Home & Kitchen,1,1090.45
+1165,381,Bluetooth Speaker,Electronics,2,1886.99
+1166,381,Water Bottle,Sports,3,1753.1
+1167,381,Bluetooth Speaker,Electronics,2,1979.6
+1168,382,Multivitamin,Health,1,1314.86
+1169,382,Desk Lamp,Office,3,212.33
+1170,383,Tennis Ball,Sports,2,846.27
+1171,383,Desk Lamp,Office,3,1971.26
+1172,383,USB Cable,Electronics,2,1474.43
+1173,383,Water Bottle,Sports,3,1944.63
+1174,383,Sanitizer,Health,1,1459.07
+1175,384,Tennis Ball,Sports,2,1642.85
+1176,384,Data Science 101,Books,3,447.64
+1177,384,Board Game,Toys,4,501.86
+1178,384,Action Figure,Toys,2,1809.23
+1179,385,Green Tea,Food,4,410.8
+1180,386,AI Primer,Books,4,1889.54
+1181,386,Plant Pot,Home & Kitchen,3,91.04
+1182,387,Blender,Home & Kitchen,2,185.44
+1183,387,Jacket,Clothing,2,937.3
+1184,388,Socks,Clothing,2,1467.19
+1185,388,Smart Watch,Electronics,1,786.86
+1186,388,Wireless Earbuds,Electronics,1,1538.72
+1187,388,Phone Case,Electronics,2,1551.73
+1188,389,Plant Pot,Home & Kitchen,1,1595.18
+1189,389,Wireless Earbuds,Electronics,3,1712.8
+1190,389,Jeans,Clothing,2,986.83
+1191,390,Green Tea,Food,3,696.92
+1192,390,Knife Set,Home & Kitchen,1,1109.88
+1193,390,Tennis Ball,Sports,1,91.36
+1194,390,Wireless Earbuds,Electronics,3,250.0
+1195,390,Board Game,Toys,1,1828.73
+1196,391,SQL Mastery,Books,4,337.38
+1197,392,Stats Book,Books,4,1389.19
+1198,392,Jacket,Clothing,2,1982.0
+1199,392,Python Handbook,Books,3,746.75
+1200,393,Face Cream,Beauty,3,1850.47
+1201,393,T-Shirt,Clothing,2,397.23
+1202,393,Whey Protein,Health,2,1374.89
+1203,393,Plant Pot,Home & Kitchen,3,1268.28
+1204,393,Resistance Band,Sports,1,578.63
+1205,394,Lipstick,Beauty,1,1588.27
+1206,394,Plant Pot,Home & Kitchen,2,674.5
+1207,394,LEGO Set,Toys,4,1638.57
+1208,394,Scarf,Clothing,4,1921.19
+1209,395,Coffee Mug,Home & Kitchen,3,1989.8
+1210,395,Blender,Home & Kitchen,3,672.67
+1211,395,LEGO Set,Toys,4,1223.4
+1212,396,Plant Pot,Home & Kitchen,2,797.21
+1213,396,Bandages,Health,4,1088.33
+1214,396,SQL Mastery,Books,1,1182.88
+1215,397,Thermometer,Health,2,1421.03
+1216,397,Data Science 101,Books,1,446.4
+1217,397,USB Cable,Electronics,4,1917.35
+1218,397,T-Shirt,Clothing,3,753.67
+1219,398,Jump Rope,Sports,2,1678.74
+1220,398,Bandages,Health,2,460.94
+1221,399,Bluetooth Speaker,Electronics,2,278.61
+1222,399,Blender,Home & Kitchen,1,1407.44
+1223,400,Face Cream,Beauty,1,1342.36
+1224,400,Jacket,Clothing,2,108.86
+1225,400,Shampoo,Beauty,1,527.84
+1226,400,Smart Watch,Electronics,4,341.95
+1227,401,Dark Chocolate,Food,2,1508.81
+1228,401,Jump Rope,Sports,4,1458.99
+1229,402,USB Cable,Electronics,1,353.98
+1230,402,Smart Watch,Electronics,2,1031.43
+1231,402,Power Bank,Electronics,4,1375.81
+1232,402,Honey,Food,3,1842.34
+1233,403,Tennis Ball,Sports,2,876.16
+1234,403,Towel Set,Home & Kitchen,1,1066.93
+1235,403,Plant Pot,Home & Kitchen,2,830.78
+1236,403,Phone Case,Electronics,4,408.2
+1237,403,Thermometer,Health,1,1642.29
+1238,404,Almonds,Food,4,1663.14
+1239,404,Coffee Mug,Home & Kitchen,3,1310.96
+1240,404,Data Science 101,Books,1,253.58
+1241,404,Sunscreen,Beauty,3,104.7
+1242,405,Candle,Home & Kitchen,1,177.37
+1243,405,Notebook,Office,3,416.1
+1244,405,Stats Book,Books,1,518.65
+1245,406,Stapler,Office,1,1149.29
+1246,407,Wireless Earbuds,Electronics,3,231.76
+1247,407,Yoga Mat,Sports,3,1515.77
+1248,407,Stuffed Animal,Toys,2,663.22
+1249,407,RC Car,Toys,3,1949.01
+1250,408,Perfume,Beauty,1,1029.25
+1251,409,Smart Watch,Electronics,4,980.06
+1252,409,USB Cable,Electronics,2,345.5
+1253,410,Socks,Clothing,1,1908.0
+1254,410,ML Guide,Books,2,1549.21
+1255,410,Candle,Home & Kitchen,3,922.59
+1256,410,Towel Set,Home & Kitchen,3,752.62
+1257,411,Bluetooth Speaker,Electronics,4,516.27
+1258,411,Stapler,Office,1,1918.13
+1259,411,Sticky Notes,Office,4,239.94
+1260,411,Phone Case,Electronics,3,1116.92
+1261,412,Protein Bar,Food,4,661.75
+1262,413,Coffee Mug,Home & Kitchen,3,1174.2
+1263,413,Face Cream,Beauty,1,399.41
+1264,413,Almonds,Food,4,1958.04
+1265,414,Coffee Mug,Home & Kitchen,4,127.21
+1266,414,Jump Rope,Sports,4,1721.15
+1267,414,Blender,Home & Kitchen,3,1049.33
+1268,414,Desk Lamp,Office,3,212.81
+1269,415,Bandages,Health,3,1760.95
+1270,415,Smart Watch,Electronics,1,1495.03
+1271,415,Stats Book,Books,1,351.4
+1272,415,Sneakers,Clothing,4,358.5
+1273,416,Jeans,Clothing,4,1754.61
+1274,416,Sneakers,Clothing,4,963.55
+1275,416,Bandages,Health,1,217.35
+1276,416,Jacket,Clothing,4,438.97
+1277,417,Sneakers,Clothing,3,1993.05
+1278,417,Green Tea,Food,4,272.94
+1279,417,Protein Bar,Food,2,1899.64
+1280,418,Data Science 101,Books,1,1976.23
+1281,418,Puzzle,Toys,3,1589.64
+1282,419,Python Handbook,Books,2,1742.64
+1283,419,Action Figure,Toys,3,1289.59
+1284,419,Jeans,Clothing,1,584.12
+1285,419,Sneakers,Clothing,4,1749.01
+1286,420,Stats Book,Books,3,408.95
+1287,420,Wireless Earbuds,Electronics,4,716.94
+1288,420,Water Bottle,Sports,2,731.09
+1289,420,LEGO Set,Toys,4,1094.24
+1290,420,Plant Pot,Home & Kitchen,4,741.65
+1291,421,Puzzle,Toys,2,201.73
+1292,421,Stapler,Office,2,681.28
+1293,421,Face Cream,Beauty,2,1798.18
+1294,421,Blender,Home & Kitchen,3,271.53
+1295,421,Action Figure,Toys,1,1977.07
+1296,422,Dark Chocolate,Food,1,121.15
+1297,422,SQL Mastery,Books,2,1221.84
+1298,423,Shampoo,Beauty,2,1944.9
+1299,423,Notebook,Office,3,1636.87
+1300,424,Resistance Band,Sports,1,1413.67
+1301,425,LEGO Set,Toys,3,736.81
+1302,425,Bandages,Health,3,271.09
+1303,425,Blender,Home & Kitchen,4,777.59
+1304,425,Thermometer,Health,2,1108.39
+1305,426,Tennis Ball,Sports,4,1286.51
+1306,426,Notebook,Office,1,1621.58
+1307,426,T-Shirt,Clothing,1,1251.71
+1308,426,Puzzle,Toys,4,1512.39
+1309,427,Multivitamin,Health,4,1031.55
+1310,427,Bluetooth Speaker,Electronics,3,1710.83
+1311,427,ML Guide,Books,4,1125.6
+1312,427,Jeans,Clothing,4,1903.58
+1313,427,Perfume,Beauty,4,1820.59
+1314,428,USB Cable,Electronics,2,1039.74
+1315,428,Tennis Ball,Sports,3,649.42
+1316,428,RC Car,Toys,2,58.11
+1317,428,Puzzle,Toys,1,101.18
+1318,429,Sanitizer,Health,3,703.43
+1319,429,Mouse Pad,Office,2,1133.69
+1320,429,Board Game,Toys,4,1665.67
+1321,430,Board Game,Toys,4,1955.84
+1322,430,Blender,Home & Kitchen,3,1058.69
+1323,430,Board Game,Toys,1,1434.55
+1324,430,Candle,Home & Kitchen,1,1281.31
+1325,430,RC Car,Toys,3,1682.81
+1326,431,Shampoo,Beauty,1,231.87
+1327,431,Puzzle,Toys,2,104.25
+1328,432,Scarf,Clothing,4,99.32
+1329,432,Blender,Home & Kitchen,3,413.78
+1330,432,Data Science 101,Books,2,1094.06
+1331,432,Stats Book,Books,4,1552.26
+1332,432,USB Cable,Electronics,1,1873.2
+1333,433,Notebook,Office,1,945.3
+1334,434,T-Shirt,Clothing,2,600.8
+1335,434,Coffee Mug,Home & Kitchen,1,1013.78
+1336,434,Shampoo,Beauty,4,246.31
+1337,434,Power Bank,Electronics,1,998.71
+1338,434,Jeans,Clothing,4,781.75
+1339,435,Green Tea,Food,2,632.57
+1340,435,Plant Pot,Home & Kitchen,1,278.55
+1341,435,Lipstick,Beauty,4,1990.09
+1342,436,Multivitamin,Health,2,1067.41
+1343,436,Yoga Mat,Sports,2,1231.92
+1344,436,Multivitamin,Health,2,471.8
+1345,436,Face Cream,Beauty,2,107.52
+1346,436,Knife Set,Home & Kitchen,1,1469.1
+1347,437,Resistance Band,Sports,4,438.51
+1348,437,Sneakers,Clothing,3,960.74
+1349,438,Stuffed Animal,Toys,4,1848.58
+1350,438,Water Bottle,Sports,2,1389.76
+1351,438,Jump Rope,Sports,1,1188.11
+1352,438,Desk Lamp,Office,2,1598.49
+1353,439,LEGO Set,Toys,4,1212.84
+1354,439,Resistance Band,Sports,1,1234.23
+1355,439,Board Game,Toys,3,779.22
+1356,439,Jacket,Clothing,2,1784.43
+1357,440,Dumbbells,Sports,4,622.27
+1358,440,Whey Protein,Health,4,108.38
+1359,440,Towel Set,Home & Kitchen,4,1592.25
+1360,440,Shampoo,Beauty,1,469.61
+1361,440,Lipstick,Beauty,2,1570.05
+1362,441,USB Cable,Electronics,1,1447.77
+1363,442,Honey,Food,3,1802.55
+1364,442,Multivitamin,Health,4,603.05
+1365,443,Omega-3,Health,1,1143.87
+1366,443,Sticky Notes,Office,1,1169.2
+1367,444,Action Figure,Toys,3,436.39
+1368,444,Power Bank,Electronics,4,141.24
+1369,444,Jump Rope,Sports,1,291.98
+1370,444,Candle,Home & Kitchen,3,1202.78
+1371,445,Notebook,Office,3,84.78
+1372,445,Notebook,Office,4,604.51
+1373,446,Smart Watch,Electronics,1,707.91
+1374,446,Wireless Earbuds,Electronics,4,235.48
+1375,446,RC Car,Toys,3,585.61
+1376,446,Perfume,Beauty,1,1135.08
+1377,447,Honey,Food,1,816.99
+1378,447,Oats,Food,1,1694.0
+1379,447,Notebook,Office,1,486.83
+1380,448,Coffee Mug,Home & Kitchen,3,1729.71
+1381,449,ML Guide,Books,1,422.76
+1382,449,Sunscreen,Beauty,1,1871.52
+1383,449,USB Cable,Electronics,1,266.07
+1384,449,Yoga Mat,Sports,3,692.19
+1385,450,Action Figure,Toys,2,1853.47
+1386,450,Mouse Pad,Office,1,296.26
+1387,450,Candle,Home & Kitchen,4,1291.96
+1388,450,Scarf,Clothing,2,1176.88
+1389,450,Almonds,Food,3,1556.66
+1390,451,Python Handbook,Books,3,1544.09
+1391,451,Sneakers,Clothing,2,1335.99
+1392,451,Stats Book,Books,1,196.53
+1393,451,Protein Bar,Food,2,75.6
+1394,452,Oats,Food,2,1000.91
+1395,452,Shampoo,Beauty,3,1532.95
+1396,453,Dark Chocolate,Food,2,1703.22
+1397,453,Jeans,Clothing,2,1837.56
+1398,453,LEGO Set,Toys,2,1571.04
+1399,454,Sneakers,Clothing,4,370.18
+1400,454,Dumbbells,Sports,1,337.21
+1401,455,Jeans,Clothing,1,1793.49
+1402,456,Yoga Mat,Sports,4,1340.68
+1403,456,Almonds,Food,3,280.74
+1404,457,Sneakers,Clothing,4,463.53
+1405,457,Stuffed Animal,Toys,4,1040.46
+1406,457,Power Bank,Electronics,3,771.07
+1407,457,Bluetooth Speaker,Electronics,4,1477.4
+1408,457,Board Game,Toys,3,419.43
+1409,458,Desk Lamp,Office,4,1061.31
+1410,458,Socks,Clothing,1,1310.37
+1411,459,Python Handbook,Books,1,1795.36
+1412,460,Water Bottle,Sports,1,1087.66
+1413,460,Water Bottle,Sports,4,814.22
+1414,460,Jeans,Clothing,3,1015.58
+1415,460,Knife Set,Home & Kitchen,3,1291.95
+1416,460,Desk Lamp,Office,1,233.77
+1417,461,Mouse Pad,Office,3,1712.5
+1418,461,ML Guide,Books,3,1378.81
+1419,461,Knife Set,Home & Kitchen,3,1804.74
+1420,461,Coffee Mug,Home & Kitchen,4,884.45
+1421,461,Phone Case,Electronics,3,1768.45
+1422,462,Smart Watch,Electronics,3,1940.61
+1423,462,Notebook,Office,4,1752.78
+1424,463,T-Shirt,Clothing,1,1156.17
+1425,463,Water Bottle,Sports,2,1522.24
+1426,463,T-Shirt,Clothing,3,1617.59
+1427,463,Perfume,Beauty,4,1482.89
+1428,464,Tennis Ball,Sports,4,544.4
+1429,464,Protein Bar,Food,3,637.21
+1430,464,Sunscreen,Beauty,4,269.88
+1431,464,Sanitizer,Health,1,338.41
+1432,464,Board Game,Toys,2,746.53
+1433,465,AI Primer,Books,4,750.87
+1434,466,SQL Mastery,Books,1,1932.63
+1435,467,Honey,Food,2,567.35
+1436,467,Lipstick,Beauty,4,1198.84
+1437,467,Resistance Band,Sports,2,130.14
+1438,467,Sanitizer,Health,3,1676.63
+1439,467,Jacket,Clothing,4,1154.99
+1440,468,Yoga Mat,Sports,1,1022.91
+1441,468,Blender,Home & Kitchen,2,1070.21
+1442,468,Dumbbells,Sports,2,642.11
+1443,469,Sneakers,Clothing,1,935.02
+1444,469,Data Science 101,Books,1,153.73
+1445,469,Yoga Mat,Sports,4,736.9
+1446,470,USB Cable,Electronics,2,732.93
+1447,471,Sanitizer,Health,2,1909.69
+1448,471,Water Bottle,Sports,2,892.5
+1449,471,Sneakers,Clothing,2,112.67
+1450,472,Stats Book,Books,4,874.0
+1451,472,Sneakers,Clothing,3,1214.23
+1452,472,Candle,Home & Kitchen,4,1373.9
+1453,473,Pen Set,Office,2,537.54
+1454,473,Stuffed Animal,Toys,2,637.07
+1455,473,Sneakers,Clothing,4,1114.37
+1456,474,Puzzle,Toys,2,1076.81
+1457,474,Sunscreen,Beauty,3,963.34
+1458,474,LEGO Set,Toys,4,1924.82
+1459,474,Protein Bar,Food,1,1917.11
+1460,475,Jeans,Clothing,3,1583.93
+1461,475,Stapler,Office,3,298.19
+1462,475,Thermometer,Health,3,154.4
+1463,475,Board Game,Toys,4,1356.65
+1464,476,Bandages,Health,1,215.09
+1465,476,Tennis Ball,Sports,1,700.29
+1466,476,Sneakers,Clothing,4,1396.66
+1467,476,Wireless Earbuds,Electronics,1,1418.07
+1468,477,Candle,Home & Kitchen,4,315.99
+1469,477,Towel Set,Home & Kitchen,3,1452.33
+1470,477,Power Bank,Electronics,2,273.68
+1471,477,Phone Case,Electronics,1,1063.65
+1472,477,ML Guide,Books,1,973.8
+1473,478,Oats,Food,1,1855.79
+1474,478,Jump Rope,Sports,4,1966.26
+1475,478,AI Primer,Books,3,1652.29
+1476,478,Dark Chocolate,Food,1,893.09
+1477,478,Phone Case,Electronics,2,1646.17
+1478,479,Candle,Home & Kitchen,2,978.51
+1479,479,Resistance Band,Sports,1,1920.23
+1480,480,Hair Oil,Beauty,3,812.82
+1481,480,Jacket,Clothing,4,1636.31
+1482,480,Coffee Mug,Home & Kitchen,3,941.31
+1483,480,Mouse Pad,Office,1,1182.05
+1484,481,Mouse Pad,Office,1,1820.81
+1485,482,Blender,Home & Kitchen,4,589.96
+1486,482,Towel Set,Home & Kitchen,2,730.23
+1487,482,Bandages,Health,1,390.27
+1488,483,Hair Oil,Beauty,3,945.99
+1489,483,Towel Set,Home & Kitchen,3,1850.78
+1490,484,Oats,Food,4,1231.39
+1491,485,Sticky Notes,Office,3,302.37
+1492,485,Sunscreen,Beauty,3,1189.76
+1493,486,T-Shirt,Clothing,1,1711.46
+1494,486,Knife Set,Home & Kitchen,1,1347.26
+1495,486,Dark Chocolate,Food,4,681.14
+1496,486,Stats Book,Books,2,255.59
+1497,487,LEGO Set,Toys,1,170.76
+1498,487,Yoga Mat,Sports,1,1701.26
+1499,488,Almonds,Food,1,1850.92
+1500,489,Socks,Clothing,4,786.38
+1501,489,Stapler,Office,2,431.65
+1502,489,Oats,Food,3,489.72
+1503,490,Stuffed Animal,Toys,2,217.74
+1504,490,Bluetooth Speaker,Electronics,1,446.9
+1505,491,USB Cable,Electronics,4,1158.18
+1506,491,Sneakers,Clothing,2,1380.6
+1507,492,Green Tea,Food,2,1162.22
+1508,492,Honey,Food,3,745.15
+1509,492,Omega-3,Health,1,905.81
+1510,492,Puzzle,Toys,1,298.03
+1511,492,Whey Protein,Health,1,279.96
+1512,493,Smart Watch,Electronics,3,93.96
+1513,493,Resistance Band,Sports,4,1421.38
+1514,494,Towel Set,Home & Kitchen,1,1092.13
+1515,495,Thermometer,Health,3,828.48
+1516,495,Smart Watch,Electronics,1,1186.41
+1517,496,Wireless Earbuds,Electronics,3,871.74
+1518,496,Data Science 101,Books,1,321.61
+1519,496,Sanitizer,Health,3,1852.14
+1520,497,SQL Mastery,Books,1,1621.04
+1521,498,Sticky Notes,Office,1,724.4
+1522,498,Jacket,Clothing,1,1780.66
+1523,498,Green Tea,Food,3,1460.49
+1524,498,T-Shirt,Clothing,4,1039.83
+1525,498,Perfume,Beauty,4,641.67
+1526,499,Wireless Earbuds,Electronics,1,1558.55
+1527,499,AI Primer,Books,4,1379.79
+1528,500,Bandages,Health,1,804.89
+1529,501,Blender,Home & Kitchen,4,1121.61
+1530,501,Jacket,Clothing,1,1799.44
+1531,501,Lipstick,Beauty,2,719.09
+1532,501,Phone Case,Electronics,2,229.38
+1533,502,SQL Mastery,Books,1,1982.33
+1534,503,Python Handbook,Books,1,160.48
+1535,504,Towel Set,Home & Kitchen,1,662.55
+1536,504,Sticky Notes,Office,2,1996.27
+1537,504,Candle,Home & Kitchen,4,983.47
+1538,504,Socks,Clothing,1,198.94
+1539,505,SQL Mastery,Books,3,1800.4
+1540,505,SQL Mastery,Books,3,1885.78
+1541,505,Whey Protein,Health,2,1077.35
+1542,505,Resistance Band,Sports,1,155.3
+1543,505,RC Car,Toys,4,595.58
+1544,506,Candle,Home & Kitchen,2,644.63
+1545,506,Omega-3,Health,1,776.16
+1546,507,Phone Case,Electronics,4,1317.32
+1547,507,Protein Bar,Food,1,1022.87
+1548,508,Resistance Band,Sports,4,635.81
+1549,509,USB Cable,Electronics,4,1015.95
+1550,510,LEGO Set,Toys,1,487.67
+1551,510,Board Game,Toys,4,1088.36
+1552,510,Yoga Mat,Sports,3,1877.59
+1553,510,Desk Lamp,Office,3,1629.98
+1554,511,Python Handbook,Books,3,1465.28
+1555,511,Mouse Pad,Office,4,1576.09
+1556,511,Wireless Earbuds,Electronics,4,1907.32
+1557,511,Dumbbells,Sports,4,876.48
+1558,511,Stapler,Office,3,366.97
+1559,512,Dark Chocolate,Food,2,307.15
+1560,512,USB Cable,Electronics,3,216.8
+1561,512,AI Primer,Books,3,708.19
+1562,512,Puzzle,Toys,3,755.3
+1563,513,Notebook,Office,1,648.45
+1564,513,Lipstick,Beauty,2,915.43
+1565,513,Power Bank,Electronics,1,959.56
+1566,514,Dark Chocolate,Food,2,846.79
+1567,514,Notebook,Office,3,1799.24
+1568,514,Whey Protein,Health,1,908.86
+1569,515,Resistance Band,Sports,4,298.08
+1570,515,Knife Set,Home & Kitchen,1,503.71
+1571,515,Phone Case,Electronics,4,1180.79
+1572,516,Sanitizer,Health,2,168.59
+1573,517,Yoga Mat,Sports,3,1103.86
+1574,517,Smart Watch,Electronics,2,731.97
+1575,517,Scarf,Clothing,4,270.71
+1576,518,ML Guide,Books,3,1162.21
+1577,519,Socks,Clothing,4,1757.91
+1578,519,Coffee Mug,Home & Kitchen,3,1233.59
+1579,519,Lipstick,Beauty,4,1799.91
+1580,519,Perfume,Beauty,3,1262.74
+1581,520,Face Cream,Beauty,3,1864.1
+1582,520,Notebook,Office,1,1237.62
+1583,521,Sanitizer,Health,3,1882.88
+1584,521,Stuffed Animal,Toys,1,1331.27
+1585,521,Blender,Home & Kitchen,1,1912.6
+1586,522,Stapler,Office,4,1100.99
+1587,522,Scarf,Clothing,1,1233.85
+1588,523,Bandages,Health,3,574.91
+1589,523,Desk Lamp,Office,2,690.93
+1590,523,Shampoo,Beauty,4,663.89
+1591,523,Socks,Clothing,2,917.76
+1592,523,Action Figure,Toys,1,736.37
+1593,524,Sneakers,Clothing,4,1230.18
+1594,524,Oats,Food,2,1160.22
+1595,524,Candle,Home & Kitchen,2,1564.07
+1596,524,RC Car,Toys,2,1230.81
+1597,524,Resistance Band,Sports,3,280.03
+1598,525,Stuffed Animal,Toys,2,1173.22
+1599,525,ML Guide,Books,4,80.25
+1600,525,Jacket,Clothing,3,1542.74
+1601,525,Dark Chocolate,Food,1,296.48
+1602,526,Puzzle,Toys,2,1980.37
+1603,527,Thermometer,Health,4,1813.31
+1604,527,Shampoo,Beauty,4,1409.01
+1605,528,Yoga Mat,Sports,3,1799.98
+1606,528,Sunscreen,Beauty,1,1988.56
+1607,529,Socks,Clothing,3,1902.34
+1608,530,Dark Chocolate,Food,4,614.12
+1609,530,Dark Chocolate,Food,2,1480.21
+1610,530,Stapler,Office,1,346.9
+1611,530,Smart Watch,Electronics,3,1364.12
+1612,531,Action Figure,Toys,4,394.61
+1613,531,Desk Lamp,Office,1,502.91
+1614,531,Almonds,Food,1,1150.06
+1615,531,Thermometer,Health,4,606.25
+1616,532,Shampoo,Beauty,2,131.77
+1617,532,SQL Mastery,Books,3,1171.52
+1618,532,Desk Lamp,Office,1,727.32
+1619,532,Coffee Mug,Home & Kitchen,3,584.0
+1620,533,ML Guide,Books,3,1881.45
+1621,533,Dumbbells,Sports,1,1852.81
+1622,533,Water Bottle,Sports,1,453.34
+1623,533,Omega-3,Health,1,1216.86
+1624,534,Thermometer,Health,2,63.0
+1625,535,Shampoo,Beauty,3,1886.52
+1626,536,RC Car,Toys,4,1065.74
+1627,536,Almonds,Food,1,1446.69
+1628,536,Jacket,Clothing,4,1011.85
+1629,536,Jeans,Clothing,3,1476.69
+1630,536,Sneakers,Clothing,1,1501.34
+1631,537,Sneakers,Clothing,2,1038.77
+1632,537,Jump Rope,Sports,1,1428.28
+1633,538,Power Bank,Electronics,1,1868.12
+1634,538,Whey Protein,Health,2,1690.79
+1635,538,Bluetooth Speaker,Electronics,1,529.53
+1636,539,Board Game,Toys,2,567.31
+1637,539,Blender,Home & Kitchen,2,1480.44
+1638,539,Water Bottle,Sports,2,1287.81
+1639,539,Scarf,Clothing,2,56.24
+1640,539,Jacket,Clothing,2,1434.48
+1641,540,RC Car,Toys,3,1246.09
+1642,541,Stats Book,Books,3,994.25
+1643,541,Towel Set,Home & Kitchen,2,1756.33
+1644,541,Oats,Food,4,1215.79
+1645,541,Bandages,Health,3,238.24
+1646,541,Sneakers,Clothing,4,1940.26
+1647,542,Stats Book,Books,4,275.85
+1648,542,Almonds,Food,1,727.78
+1649,542,RC Car,Toys,2,1558.68
+1650,543,Honey,Food,4,1390.08
+1651,543,USB Cable,Electronics,3,1039.6
+1652,543,Puzzle,Toys,3,560.13
+1653,543,Perfume,Beauty,4,1627.61
+1654,544,Action Figure,Toys,1,573.22
+1655,544,Data Science 101,Books,1,651.6
+1656,544,Board Game,Toys,2,1095.23
+1657,544,Scarf,Clothing,3,301.97
+1658,545,Bluetooth Speaker,Electronics,1,1614.71
+1659,545,Socks,Clothing,3,1828.85
+1660,545,Multivitamin,Health,1,1061.37
+1661,545,Sunscreen,Beauty,2,1971.17
+1662,545,Bandages,Health,2,615.87
+1663,546,Lipstick,Beauty,4,470.45
+1664,546,Python Handbook,Books,1,1698.69
+1665,547,Scarf,Clothing,4,1593.12
+1666,547,Phone Case,Electronics,3,637.86
+1667,547,Stats Book,Books,2,115.87
+1668,547,Jacket,Clothing,4,305.83
+1669,547,Yoga Mat,Sports,1,194.09
+1670,548,Wireless Earbuds,Electronics,2,236.34
+1671,548,Mouse Pad,Office,2,1671.37
+1672,548,Resistance Band,Sports,4,1049.09
+1673,548,USB Cable,Electronics,3,944.87
+1674,549,Tennis Ball,Sports,4,784.33
+1675,550,Jeans,Clothing,4,1143.94
+1676,550,Almonds,Food,2,795.7
+1677,550,Dark Chocolate,Food,4,1905.34
+1678,550,Sanitizer,Health,1,931.93
+1679,551,Power Bank,Electronics,2,921.82
+1680,551,Honey,Food,1,1303.5
+1681,551,Shampoo,Beauty,1,236.01
+1682,551,Knife Set,Home & Kitchen,4,1207.15
+1683,551,Jeans,Clothing,4,1252.15
+1684,552,Sanitizer,Health,2,164.92
+1685,552,Almonds,Food,4,657.34
+1686,552,Shampoo,Beauty,1,676.81
+1687,552,Stapler,Office,4,1749.28
+1688,553,AI Primer,Books,4,1113.9
+1689,553,Hair Oil,Beauty,2,677.58
+1690,553,Honey,Food,1,1846.4
+1691,554,Jacket,Clothing,2,1525.93
+1692,554,Candle,Home & Kitchen,1,374.08
+1693,554,Protein Bar,Food,1,1776.73
+1694,554,Green Tea,Food,4,322.74
+1695,555,LEGO Set,Toys,1,628.66
+1696,555,Action Figure,Toys,3,1068.84
+1697,555,Desk Lamp,Office,2,325.96
+1698,555,Sanitizer,Health,2,1615.49
+1699,555,Sunscreen,Beauty,3,970.61
+1700,556,Hair Oil,Beauty,2,370.26
+1701,556,Protein Bar,Food,3,861.79
+1702,557,Protein Bar,Food,1,658.09
+1703,557,ML Guide,Books,1,1098.58
+1704,558,T-Shirt,Clothing,4,1209.19
+1705,558,Sneakers,Clothing,2,722.67
+1706,558,Phone Case,Electronics,3,604.17
+1707,559,Sticky Notes,Office,3,766.19
+1708,559,Action Figure,Toys,2,201.08
+1709,559,Coffee Mug,Home & Kitchen,2,595.97
+1710,559,Dumbbells,Sports,1,297.07
+1711,560,Sticky Notes,Office,4,693.81
+1712,560,Stapler,Office,3,1934.98
+1713,560,Sticky Notes,Office,4,458.15
+1714,560,Phone Case,Electronics,2,228.11
+1715,560,Pen Set,Office,2,371.4
+1716,561,Face Cream,Beauty,1,317.1
+1717,562,RC Car,Toys,4,687.82
+1718,562,Multivitamin,Health,2,1142.28
+1719,562,LEGO Set,Toys,4,742.23
+1720,562,Whey Protein,Health,1,1772.41
+1721,563,Plant Pot,Home & Kitchen,3,1437.13
+1722,563,Stuffed Animal,Toys,4,1005.68
+1723,564,Scarf,Clothing,4,1321.58
+1724,564,Coffee Mug,Home & Kitchen,3,1717.98
+1725,564,Hair Oil,Beauty,4,466.87
+1726,565,SQL Mastery,Books,3,399.06
+1727,565,Phone Case,Electronics,4,753.93
+1728,565,Python Handbook,Books,3,690.48
+1729,565,Lipstick,Beauty,1,1233.21
+1730,565,Bluetooth Speaker,Electronics,3,1301.26
+1731,566,Bluetooth Speaker,Electronics,3,584.64
+1732,566,Smart Watch,Electronics,1,1733.21
+1733,566,Honey,Food,4,1006.09
+1734,566,Dark Chocolate,Food,1,124.48
+1735,567,Sticky Notes,Office,2,1426.0
+1736,568,Coffee Mug,Home & Kitchen,4,1676.43
+1737,568,T-Shirt,Clothing,4,1293.08
+1738,569,Face Cream,Beauty,3,1967.64
+1739,570,Sticky Notes,Office,1,698.7
+1740,570,Hair Oil,Beauty,2,1816.16
+1741,571,Sunscreen,Beauty,1,1884.06
+1742,571,LEGO Set,Toys,1,176.66
+1743,571,Omega-3,Health,3,213.74
+1744,571,Protein Bar,Food,3,1236.63
+1745,571,Bandages,Health,2,1288.83
+1746,572,Resistance Band,Sports,3,279.54
+1747,573,Sticky Notes,Office,1,1154.07
+1748,573,Protein Bar,Food,1,1840.12
+1749,573,Plant Pot,Home & Kitchen,1,412.03
+1750,573,Sticky Notes,Office,1,1545.11
+1751,574,Stats Book,Books,3,947.68
+1752,575,Tennis Ball,Sports,2,1507.45
+1753,575,Towel Set,Home & Kitchen,1,789.66
+1754,576,Towel Set,Home & Kitchen,2,1151.83
+1755,576,Board Game,Toys,2,581.96
+1756,576,ML Guide,Books,3,555.74
+1757,577,Yoga Mat,Sports,4,742.55
+1758,577,Lipstick,Beauty,4,1667.53
+1759,577,Coffee Mug,Home & Kitchen,4,353.62
+1760,577,Pen Set,Office,4,726.5
+1761,578,Data Science 101,Books,3,226.98
+1762,578,Data Science 101,Books,2,961.99
+1763,578,Wireless Earbuds,Electronics,2,976.66
+1764,579,Desk Lamp,Office,3,1149.35
+1765,579,Notebook,Office,3,1417.51
+1766,579,Face Cream,Beauty,2,871.75
+1767,579,Lipstick,Beauty,1,414.87
+1768,580,Water Bottle,Sports,4,1116.22
+1769,580,Power Bank,Electronics,4,1207.47
+1770,580,RC Car,Toys,4,973.47
+1771,581,Tennis Ball,Sports,3,1221.84
+1772,581,Dark Chocolate,Food,4,635.34
+1773,582,Multivitamin,Health,4,880.49
+1774,582,Dumbbells,Sports,4,1206.5
+1775,583,Omega-3,Health,3,1778.86
+1776,583,Omega-3,Health,2,303.29
+1777,584,Wireless Earbuds,Electronics,3,1596.08
+1778,584,Towel Set,Home & Kitchen,4,822.19
+1779,584,Protein Bar,Food,2,440.79
+1780,585,Resistance Band,Sports,1,409.96
+1781,585,SQL Mastery,Books,1,1462.06
+1782,586,Whey Protein,Health,1,980.82
+1783,586,Face Cream,Beauty,4,1122.17
+1784,587,SQL Mastery,Books,4,1671.13
+1785,587,Python Handbook,Books,4,300.58
+1786,587,Blender,Home & Kitchen,3,1801.14
+1787,587,Stuffed Animal,Toys,4,1091.52
+1788,588,Dark Chocolate,Food,1,482.3
+1789,588,Pen Set,Office,2,769.81
+1790,588,Sunscreen,Beauty,1,1240.6
+1791,589,Socks,Clothing,2,319.26
+1792,589,Python Handbook,Books,2,638.78
+1793,589,Sneakers,Clothing,4,1325.39
+1794,589,Board Game,Toys,3,656.63
+1795,590,USB Cable,Electronics,4,400.06
+1796,590,RC Car,Toys,1,956.6
+1797,590,Sneakers,Clothing,1,1328.94
+1798,590,Puzzle,Toys,2,672.1
+1799,591,Bandages,Health,4,72.6
+1800,591,LEGO Set,Toys,1,640.76
+1801,591,Tennis Ball,Sports,1,1227.09
+1802,591,Honey,Food,3,1572.96
+1803,591,Sunscreen,Beauty,3,267.76
+1804,592,Stuffed Animal,Toys,4,1747.11
+1805,592,Jeans,Clothing,1,707.38
+1806,593,Water Bottle,Sports,4,898.03
+1807,593,Almonds,Food,1,287.03
+1808,593,Oats,Food,3,147.64
+1809,593,Sticky Notes,Office,3,542.04
+1810,593,Hair Oil,Beauty,3,1545.33
+1811,594,Whey Protein,Health,2,621.82
+1812,595,Power Bank,Electronics,3,630.48
+1813,595,Smart Watch,Electronics,1,746.63
+1814,595,Smart Watch,Electronics,4,534.82
+1815,595,Scarf,Clothing,1,295.81
+1816,596,Oats,Food,3,723.5
+1817,596,Dark Chocolate,Food,2,1841.61
+1818,597,Mouse Pad,Office,1,199.25
+1819,597,Face Cream,Beauty,2,1238.24
+1820,597,Jacket,Clothing,1,708.66
+1821,597,Jump Rope,Sports,4,93.65
+1822,597,Tennis Ball,Sports,1,1681.86
+1823,598,Jeans,Clothing,3,1990.09
+1824,598,Stapler,Office,2,1403.8
+1825,598,USB Cable,Electronics,4,469.66
+1826,598,Action Figure,Toys,2,589.86
+1827,599,Mouse Pad,Office,2,1372.51
+1828,600,Power Bank,Electronics,2,86.5
+1829,600,RC Car,Toys,2,585.8
+1830,600,Honey,Food,3,239.44
+1831,601,Bluetooth Speaker,Electronics,3,481.06
+1832,601,Desk Lamp,Office,4,1196.43
+1833,602,Sunscreen,Beauty,4,977.43
+1834,602,Multivitamin,Health,3,714.16
+1835,602,Perfume,Beauty,2,950.8
+1836,602,Green Tea,Food,2,1362.32
+1837,602,Jump Rope,Sports,1,1338.36
+1838,603,Socks,Clothing,4,1144.59
+1839,603,Face Cream,Beauty,2,1508.62
+1840,603,Whey Protein,Health,3,619.05
+1841,603,Perfume,Beauty,4,107.65
+1842,603,Stapler,Office,2,1267.32
+1843,604,LEGO Set,Toys,1,1515.21
+1844,604,Dumbbells,Sports,4,1979.88
+1845,604,Stuffed Animal,Toys,2,787.94
+1846,604,T-Shirt,Clothing,4,475.7
+1847,604,Scarf,Clothing,3,398.31
+1848,605,Stuffed Animal,Toys,4,736.45
+1849,605,SQL Mastery,Books,3,672.84
+1850,606,Socks,Clothing,3,1029.49
+1851,606,Bandages,Health,2,1725.16
+1852,606,Oats,Food,3,1660.97
+1853,607,Knife Set,Home & Kitchen,4,612.4
+1854,607,Whey Protein,Health,4,1329.57
+1855,607,Jacket,Clothing,4,1949.78
+1856,607,Board Game,Toys,1,1256.81
+1857,608,Stapler,Office,1,1219.16
+1858,608,Puzzle,Toys,3,1239.13
+1859,609,Sticky Notes,Office,4,1384.51
+1860,609,Face Cream,Beauty,4,1126.51
+1861,610,Blender,Home & Kitchen,3,1459.97
+1862,610,ML Guide,Books,4,1877.42
+1863,611,Shampoo,Beauty,3,176.39
+1864,611,Phone Case,Electronics,4,945.43
+1865,612,Green Tea,Food,2,1946.97
+1866,612,Sanitizer,Health,1,1617.19
+1867,612,Shampoo,Beauty,2,951.31
+1868,612,T-Shirt,Clothing,1,1379.95
+1869,612,Stuffed Animal,Toys,4,1731.23
+1870,613,Action Figure,Toys,1,1445.8
+1871,614,Sanitizer,Health,1,905.12
+1872,614,USB Cable,Electronics,4,1665.2
+1873,614,USB Cable,Electronics,4,1447.42
+1874,614,Sanitizer,Health,4,885.75
+1875,614,T-Shirt,Clothing,2,1701.79
+1876,615,Socks,Clothing,2,764.61
+1877,615,Shampoo,Beauty,2,1601.33
+1878,615,Data Science 101,Books,1,693.55
+1879,615,Jacket,Clothing,4,1517.38
+1880,615,Resistance Band,Sports,3,1393.93
+1881,616,Dark Chocolate,Food,3,1158.05
+1882,616,Notebook,Office,2,338.65
+1883,616,Yoga Mat,Sports,2,1766.33
+1884,617,Hair Oil,Beauty,3,647.99
+1885,617,Candle,Home & Kitchen,3,976.81
+1886,617,Dark Chocolate,Food,3,351.16
+1887,617,Knife Set,Home & Kitchen,3,1725.34
+1888,617,Tennis Ball,Sports,2,104.61
+1889,618,Desk Lamp,Office,2,1189.26
+1890,618,Resistance Band,Sports,4,980.1
+1891,619,Hair Oil,Beauty,2,1194.91
+1892,619,Whey Protein,Health,3,787.06
+1893,620,Candle,Home & Kitchen,4,392.01
+1894,620,Puzzle,Toys,1,717.62
+1895,620,Water Bottle,Sports,2,342.67
+1896,620,Sticky Notes,Office,1,1317.49
+1897,621,Oats,Food,1,1687.96
+1898,621,Omega-3,Health,2,758.94
+1899,621,Power Bank,Electronics,1,1906.46
+1900,622,Sneakers,Clothing,1,1942.35
+1901,622,Power Bank,Electronics,2,527.15
+1902,622,Plant Pot,Home & Kitchen,2,495.26
+1903,622,Green Tea,Food,1,1959.79
+1904,622,Dumbbells,Sports,3,228.15
+1905,623,Jeans,Clothing,3,168.69
+1906,623,ML Guide,Books,4,955.33
+1907,624,USB Cable,Electronics,1,433.03
+1908,624,Jacket,Clothing,1,978.27
+1909,624,Scarf,Clothing,2,1216.67
+1910,624,Dumbbells,Sports,1,1184.34
+1911,624,Socks,Clothing,4,1565.92
+1912,625,Sticky Notes,Office,4,1984.86
+1913,625,Jump Rope,Sports,3,1010.58
+1914,626,Sunscreen,Beauty,4,1052.69
+1915,626,Resistance Band,Sports,2,715.23
+1916,627,Whey Protein,Health,4,267.37
+1917,627,Blender,Home & Kitchen,1,672.45
+1918,627,Bandages,Health,4,368.11
+1919,627,Jacket,Clothing,3,234.41
+1920,627,Almonds,Food,2,427.51
+1921,628,ML Guide,Books,3,1028.47
+1922,629,Bandages,Health,1,1385.26
+1923,629,Pen Set,Office,2,681.34
+1924,629,SQL Mastery,Books,2,1712.1
+1925,630,Towel Set,Home & Kitchen,4,1324.31
+1926,630,RC Car,Toys,3,496.01
+1927,630,Jump Rope,Sports,3,773.04
+1928,630,Resistance Band,Sports,3,1667.0
+1929,630,Perfume,Beauty,3,879.33
+1930,631,Puzzle,Toys,4,157.85
+1931,631,Action Figure,Toys,2,1951.22
+1932,631,Yoga Mat,Sports,2,456.79
+1933,631,Resistance Band,Sports,3,96.17
+1934,632,Action Figure,Toys,2,1605.08
+1935,632,Stapler,Office,4,1719.99
+1936,632,T-Shirt,Clothing,2,362.81
+1937,632,Dark Chocolate,Food,4,1906.49
+1938,633,RC Car,Toys,4,537.2
+1939,634,Mouse Pad,Office,1,247.81
+1940,634,Lipstick,Beauty,3,904.34
+1941,634,Yoga Mat,Sports,4,311.86
+1942,634,Sneakers,Clothing,4,1657.41
+1943,634,Candle,Home & Kitchen,3,1169.47
+1944,635,Jacket,Clothing,2,689.29
+1945,635,Sanitizer,Health,3,1135.52
+1946,635,Tennis Ball,Sports,1,323.91
+1947,635,Socks,Clothing,3,1916.54
+1948,635,Perfume,Beauty,2,409.07
+1949,636,SQL Mastery,Books,3,699.37
+1950,636,Resistance Band,Sports,1,323.53
+1951,636,LEGO Set,Toys,4,1621.83
+1952,636,Smart Watch,Electronics,1,1830.32
+1953,637,Face Cream,Beauty,4,1991.53
+1954,637,Whey Protein,Health,4,601.16
+1955,637,Hair Oil,Beauty,1,1482.15
+1956,637,Notebook,Office,1,1086.94
+1957,637,Multivitamin,Health,4,1239.56
+1958,638,Socks,Clothing,4,1644.62
+1959,638,Oats,Food,2,1318.37
+1960,639,Plant Pot,Home & Kitchen,3,935.39
+1961,640,Power Bank,Electronics,3,62.39
+1962,640,Puzzle,Toys,1,489.2
+1963,640,Board Game,Toys,3,1718.37
+1964,640,Sticky Notes,Office,3,1088.11
+1965,641,Desk Lamp,Office,2,418.25
+1966,641,Knife Set,Home & Kitchen,3,404.09
+1967,642,Thermometer,Health,1,1569.95
+1968,643,Face Cream,Beauty,3,1747.58
+1969,643,Stats Book,Books,2,443.32
+1970,643,Blender,Home & Kitchen,3,504.31
+1971,643,Data Science 101,Books,1,317.76
+1972,643,Protein Bar,Food,4,99.58
+1973,644,Puzzle,Toys,4,905.17
+1974,644,ML Guide,Books,4,1200.92
+1975,645,Jeans,Clothing,1,367.62
+1976,646,Jacket,Clothing,3,1511.88
+1977,646,Perfume,Beauty,2,460.14
+1978,647,Whey Protein,Health,4,547.8
+1979,648,Protein Bar,Food,1,791.06
+1980,649,Puzzle,Toys,3,752.77
+1981,649,Yoga Mat,Sports,4,1894.58
+1982,649,Water Bottle,Sports,1,1318.34
+1983,649,LEGO Set,Toys,1,1905.05
+1984,650,Face Cream,Beauty,2,1702.46
+1985,650,Candle,Home & Kitchen,1,299.5
+1986,650,Knife Set,Home & Kitchen,4,1536.46
+1987,651,Pen Set,Office,3,774.82
+1988,652,Blender,Home & Kitchen,2,390.54
+1989,652,Omega-3,Health,2,761.88
+1990,652,Jeans,Clothing,1,1020.23
+1991,652,Jump Rope,Sports,3,1822.51
+1992,653,Desk Lamp,Office,1,1577.37
+1993,653,Face Cream,Beauty,4,116.73
+1994,653,Blender,Home & Kitchen,1,1101.98
+1995,654,Omega-3,Health,2,245.22
+1996,654,Shampoo,Beauty,1,868.77
+1997,654,T-Shirt,Clothing,4,955.64
+1998,654,Stuffed Animal,Toys,4,312.09
+1999,654,Sticky Notes,Office,1,657.29
+2000,655,Water Bottle,Sports,3,1329.93
+2001,655,Sunscreen,Beauty,1,981.69
+2002,655,Pen Set,Office,2,477.66
+2003,655,Knife Set,Home & Kitchen,2,1335.46
+2004,656,Action Figure,Toys,1,537.07
+2005,657,Plant Pot,Home & Kitchen,3,690.82
+2006,657,Dark Chocolate,Food,3,1531.79
+2007,657,Towel Set,Home & Kitchen,4,780.8
+2008,658,Sticky Notes,Office,1,1508.48
+2009,658,RC Car,Toys,1,1598.68
+2010,659,Phone Case,Electronics,1,1678.99
+2011,659,ML Guide,Books,4,678.94
+2012,660,Oats,Food,3,416.11
+2013,660,Mouse Pad,Office,4,1985.76
+2014,660,Honey,Food,3,1114.46
+2015,660,Socks,Clothing,3,1328.15
+2016,660,Whey Protein,Health,3,1993.54
+2017,661,Resistance Band,Sports,4,1555.42
+2018,661,Dark Chocolate,Food,1,1352.62
+2019,662,Whey Protein,Health,1,1574.81
+2020,662,RC Car,Toys,1,1931.27
+2021,662,Coffee Mug,Home & Kitchen,2,1951.42
+2022,663,Scarf,Clothing,3,296.28
+2023,664,Jump Rope,Sports,4,1128.93
+2024,664,Scarf,Clothing,2,825.24
+2025,664,Omega-3,Health,2,1688.02
+2026,665,Phone Case,Electronics,3,1074.87
+2027,665,Candle,Home & Kitchen,1,1610.51
+2028,666,Omega-3,Health,2,780.22
+2029,666,Socks,Clothing,2,1288.07
+2030,666,Pen Set,Office,2,1104.6
+2031,667,Board Game,Toys,3,145.38
+2032,667,Action Figure,Toys,4,1806.87
+2033,667,LEGO Set,Toys,4,677.75
+2034,667,Yoga Mat,Sports,1,540.09
+2035,667,Sanitizer,Health,3,457.07
+2036,668,Notebook,Office,1,1522.58
+2037,668,Knife Set,Home & Kitchen,4,1653.76
+2038,668,SQL Mastery,Books,2,1309.87
+2039,668,Stuffed Animal,Toys,2,534.72
+2040,668,Face Cream,Beauty,2,1928.55
+2041,669,Blender,Home & Kitchen,1,1465.66
+2042,669,Sticky Notes,Office,2,451.37
+2043,669,Plant Pot,Home & Kitchen,3,1533.14
+2044,670,Scarf,Clothing,3,1072.27
+2045,671,Green Tea,Food,4,632.7
+2046,671,Scarf,Clothing,4,349.67
+2047,671,Lipstick,Beauty,1,793.93
+2048,671,Yoga Mat,Sports,4,880.53
+2049,671,Plant Pot,Home & Kitchen,4,1529.0
+2050,672,Multivitamin,Health,1,1995.33
+2051,672,Stapler,Office,3,520.52
+2052,673,LEGO Set,Toys,1,1294.22
+2053,673,Tennis Ball,Sports,3,1814.23
+2054,673,Whey Protein,Health,4,1350.61
+2055,673,Resistance Band,Sports,1,75.21
+2056,674,AI Primer,Books,4,481.71
+2057,674,RC Car,Toys,3,252.73
+2058,674,Honey,Food,4,1232.92
+2059,674,Puzzle,Toys,1,1201.17
+2060,675,Notebook,Office,1,1935.12
+2061,676,Sunscreen,Beauty,4,1639.8
+2062,676,USB Cable,Electronics,4,1711.85
+2063,677,Multivitamin,Health,4,1635.66
+2064,677,RC Car,Toys,1,471.28
+2065,677,Coffee Mug,Home & Kitchen,3,242.67
+2066,677,Puzzle,Toys,4,1706.39
+2067,677,Resistance Band,Sports,3,737.14
+2068,678,Jump Rope,Sports,1,682.8
+2069,678,Water Bottle,Sports,2,1139.03
+2070,679,Hair Oil,Beauty,4,1518.97
+2071,679,Blender,Home & Kitchen,1,700.84
+2072,679,Stapler,Office,2,667.24
+2073,679,Yoga Mat,Sports,1,1296.93
+2074,679,Sunscreen,Beauty,4,1296.98
+2075,680,Data Science 101,Books,4,733.66
+2076,680,Almonds,Food,2,1920.65
+2077,680,Face Cream,Beauty,1,420.09
+2078,680,Dumbbells,Sports,3,1525.7
+2079,681,Blender,Home & Kitchen,1,437.31
+2080,681,Socks,Clothing,4,1711.81
+2081,681,Plant Pot,Home & Kitchen,3,1089.01
+2082,681,Board Game,Toys,4,252.07
+2083,681,Dumbbells,Sports,1,681.48
+2084,682,Protein Bar,Food,2,1118.58
+2085,682,Yoga Mat,Sports,4,487.71
+2086,683,ML Guide,Books,4,1313.4
+2087,683,ML Guide,Books,1,628.75
+2088,684,Mouse Pad,Office,4,858.33
+2089,685,Pen Set,Office,4,412.81
+2090,685,Thermometer,Health,4,1273.15
+2091,685,RC Car,Toys,3,1428.15
+2092,685,Lipstick,Beauty,4,771.95
+2093,685,Data Science 101,Books,3,200.23
+2094,686,Hair Oil,Beauty,2,1601.34
+2095,686,Pen Set,Office,1,1962.97
+2096,687,Honey,Food,3,254.37
+2097,687,Pen Set,Office,3,1449.25
+2098,687,Omega-3,Health,4,574.81
+2099,687,Power Bank,Electronics,4,1019.41
+2100,687,Puzzle,Toys,2,93.12
+2101,688,Sanitizer,Health,1,1796.89
+2102,688,Dark Chocolate,Food,2,174.36
+2103,688,Face Cream,Beauty,3,1161.02
+2104,688,Bluetooth Speaker,Electronics,4,890.12
+2105,689,Board Game,Toys,4,654.16
+2106,689,Resistance Band,Sports,2,1161.22
+2107,690,Board Game,Toys,3,1732.33
+2108,690,Notebook,Office,3,1195.52
+2109,690,Scarf,Clothing,1,1083.06
+2110,690,Plant Pot,Home & Kitchen,2,535.16
+2111,690,Pen Set,Office,2,107.5
+2112,691,Sneakers,Clothing,1,233.61
+2113,691,Stuffed Animal,Toys,4,1619.58
+2114,691,RC Car,Toys,4,320.09
+2115,691,Shampoo,Beauty,1,656.83
+2116,692,Action Figure,Toys,4,226.93
+2117,692,Jump Rope,Sports,2,491.95
+2118,693,Perfume,Beauty,1,1071.54
+2119,694,Notebook,Office,1,1381.28
+2120,695,Coffee Mug,Home & Kitchen,1,59.09
+2121,696,Yoga Mat,Sports,3,1725.75
+2122,696,Knife Set,Home & Kitchen,4,404.48
+2123,696,Data Science 101,Books,1,1750.59
+2124,696,Candle,Home & Kitchen,3,1169.27
+2125,697,Candle,Home & Kitchen,2,1638.0
+2126,697,Protein Bar,Food,1,1873.82
+2127,697,Sneakers,Clothing,3,260.16
+2128,697,Candle,Home & Kitchen,2,1805.45
+2129,698,AI Primer,Books,2,1994.82
+2130,698,Perfume,Beauty,4,1578.92
+2131,698,Socks,Clothing,1,709.77
+2132,698,Shampoo,Beauty,2,1922.75
+2133,699,SQL Mastery,Books,1,748.73
+2134,699,Dark Chocolate,Food,1,1703.16
+2135,699,Socks,Clothing,3,1828.14
+2136,699,Stapler,Office,4,1526.0
+2137,700,Resistance Band,Sports,2,923.41
+2138,700,Data Science 101,Books,4,838.26
+2139,701,Jacket,Clothing,1,1007.92
+2140,701,Sunscreen,Beauty,4,1238.84
+2141,701,Jump Rope,Sports,3,1553.14
+2142,701,Smart Watch,Electronics,1,416.75
+2143,702,Dumbbells,Sports,2,1299.82
+2144,703,Multivitamin,Health,1,1935.2
+2145,704,Data Science 101,Books,1,1656.3
+2146,704,RC Car,Toys,2,1042.05
+2147,704,Phone Case,Electronics,1,941.61
+2148,704,Knife Set,Home & Kitchen,3,192.28
+2149,705,Green Tea,Food,1,138.21
+2150,705,Board Game,Toys,1,1852.41
+2151,706,Stats Book,Books,3,1969.58
+2152,707,Data Science 101,Books,4,137.28
+2153,707,Candle,Home & Kitchen,2,1262.44
+2154,707,Jump Rope,Sports,3,449.51
+2155,707,Jump Rope,Sports,1,860.98
+2156,708,Action Figure,Toys,2,1642.61
+2157,708,Almonds,Food,1,1271.75
+2158,708,Puzzle,Toys,4,301.33
+2159,708,Python Handbook,Books,1,274.79
+2160,709,Jeans,Clothing,3,376.37
+2161,709,Tennis Ball,Sports,4,605.37
+2162,709,Resistance Band,Sports,3,261.56
+2163,709,Jacket,Clothing,2,1902.91
+2164,710,Green Tea,Food,2,1060.54
+2165,710,Power Bank,Electronics,4,263.22
+2166,710,Python Handbook,Books,4,409.73
+2167,710,Jeans,Clothing,4,1249.88
+2168,710,Dark Chocolate,Food,2,911.95
+2169,711,Omega-3,Health,2,1463.57
+2170,712,Notebook,Office,2,715.63
+2171,713,Towel Set,Home & Kitchen,4,441.27
+2172,713,Power Bank,Electronics,4,348.54
+2173,713,Dumbbells,Sports,1,489.21
+2174,714,Hair Oil,Beauty,4,99.35
+2175,714,Protein Bar,Food,2,1223.24
+2176,715,Omega-3,Health,2,1116.89
+2177,715,Face Cream,Beauty,1,1385.29
+2178,715,Stuffed Animal,Toys,1,1256.24
+2179,716,Lipstick,Beauty,1,329.8
+2180,716,Socks,Clothing,2,61.51
+2181,717,Notebook,Office,4,1548.96
+2182,718,Stats Book,Books,1,1149.1
+2183,719,Bluetooth Speaker,Electronics,4,1877.56
+2184,720,Tennis Ball,Sports,4,926.86
+2185,720,Stats Book,Books,4,1244.59
+2186,720,Hair Oil,Beauty,4,984.3
+2187,720,Blender,Home & Kitchen,3,486.49
+2188,721,Blender,Home & Kitchen,3,1769.78
+2189,721,Hair Oil,Beauty,1,891.89
+2190,721,Water Bottle,Sports,1,946.87
+2191,722,SQL Mastery,Books,2,1688.26
+2192,722,Shampoo,Beauty,4,871.22
+2193,722,LEGO Set,Toys,4,915.59
+2194,722,LEGO Set,Toys,3,708.71
+2195,722,Board Game,Toys,2,529.71
+2196,723,Pen Set,Office,3,1805.69
+2197,723,Bandages,Health,3,1305.8
+2198,724,Board Game,Toys,4,261.87
+2199,724,Almonds,Food,4,149.23
+2200,725,Sunscreen,Beauty,2,1336.32
+2201,725,Bandages,Health,2,1889.24
+2202,726,SQL Mastery,Books,2,582.97
+2203,727,Plant Pot,Home & Kitchen,4,1171.38
+2204,727,ML Guide,Books,4,667.16
+2205,727,Stats Book,Books,2,1537.11
+2206,727,Almonds,Food,1,1368.57
+2207,727,T-Shirt,Clothing,1,66.9
+2208,728,Face Cream,Beauty,3,1866.55
+2209,729,Stats Book,Books,2,1918.02
+2210,729,Yoga Mat,Sports,3,1265.3
+2211,729,Sunscreen,Beauty,4,976.42
+2212,730,Resistance Band,Sports,1,1614.56
+2213,730,Knife Set,Home & Kitchen,2,859.61
+2214,731,Mouse Pad,Office,2,1145.24
+2215,731,Dark Chocolate,Food,3,1395.43
+2216,731,Python Handbook,Books,2,1822.91
+2217,731,T-Shirt,Clothing,2,1766.45
+2218,731,Oats,Food,4,382.39
+2219,732,Sticky Notes,Office,3,1865.34
+2220,733,Pen Set,Office,4,1793.28
+2221,733,Dark Chocolate,Food,3,1776.93
+2222,733,Sneakers,Clothing,1,395.61
+2223,733,Desk Lamp,Office,4,1837.69
+2224,733,Socks,Clothing,2,1925.07
+2225,734,Tennis Ball,Sports,1,741.69
+2226,734,Protein Bar,Food,4,1983.82
+2227,734,Lipstick,Beauty,2,1051.17
+2228,735,Power Bank,Electronics,3,1816.34
+2229,735,Bluetooth Speaker,Electronics,2,1416.0
+2230,735,Jump Rope,Sports,4,708.16
+2231,735,Tennis Ball,Sports,4,1335.85
+2232,735,Sunscreen,Beauty,1,304.77
+2233,736,Bluetooth Speaker,Electronics,1,640.29
+2234,736,SQL Mastery,Books,4,807.37
+2235,736,Tennis Ball,Sports,4,704.49
+2236,736,Bandages,Health,4,1429.2
+2237,736,Towel Set,Home & Kitchen,3,1127.15
+2238,737,Resistance Band,Sports,1,1831.05
+2239,737,Socks,Clothing,3,1729.88
+2240,737,T-Shirt,Clothing,2,1622.14
+2241,737,Jeans,Clothing,1,395.36
+2242,738,Candle,Home & Kitchen,2,1568.81
+2243,739,Bluetooth Speaker,Electronics,1,1486.18
+2244,740,Notebook,Office,2,1186.37
+2245,740,Dark Chocolate,Food,3,1582.96
+2246,740,Scarf,Clothing,1,159.52
+2247,741,Stats Book,Books,1,411.87
+2248,741,T-Shirt,Clothing,4,1593.61
+2249,742,Python Handbook,Books,1,804.46
+2250,742,Omega-3,Health,4,1644.22
+2251,743,Sticky Notes,Office,2,964.96
+2252,743,Notebook,Office,4,410.61
+2253,743,Wireless Earbuds,Electronics,2,1949.67
+2254,743,Water Bottle,Sports,2,1414.94
+2255,744,ML Guide,Books,3,1524.76
+2256,745,Blender,Home & Kitchen,3,1223.03
+2257,745,Sanitizer,Health,3,475.6
+2258,746,Hair Oil,Beauty,2,1084.57
+2259,746,Resistance Band,Sports,2,176.07
+2260,746,Jacket,Clothing,3,1810.25
+2261,747,Mouse Pad,Office,1,1364.37
+2262,748,Bluetooth Speaker,Electronics,1,670.88
+2263,748,Hair Oil,Beauty,1,1159.94
+2264,748,Perfume,Beauty,3,1497.28
+2265,748,Almonds,Food,4,635.48
+2266,749,Sunscreen,Beauty,2,494.82
+2267,749,Coffee Mug,Home & Kitchen,3,848.98
+2268,749,Almonds,Food,4,954.07
+2269,749,Oats,Food,2,327.06
+2270,750,Puzzle,Toys,2,1587.12
+2271,750,RC Car,Toys,2,828.87
+2272,750,Power Bank,Electronics,2,344.53
+2273,750,Knife Set,Home & Kitchen,1,81.96
+2274,751,Towel Set,Home & Kitchen,3,435.63
+2275,751,Oats,Food,2,641.87
+2276,751,Whey Protein,Health,2,420.39
+2277,751,Sticky Notes,Office,4,894.07
+2278,752,Dark Chocolate,Food,1,739.07
+2279,752,T-Shirt,Clothing,3,1426.75
+2280,753,Water Bottle,Sports,2,1061.59
+2281,753,Green Tea,Food,4,1006.49
+2282,753,Tennis Ball,Sports,2,710.23
+2283,753,Tennis Ball,Sports,4,1242.67
+2284,753,Pen Set,Office,3,715.14
+2285,754,Towel Set,Home & Kitchen,4,173.09
+2286,754,Almonds,Food,4,529.91
+2287,754,Hair Oil,Beauty,2,1824.78
+2288,755,Almonds,Food,3,1175.58
+2289,755,Hair Oil,Beauty,2,1808.62
+2290,755,Hair Oil,Beauty,2,1430.8
+2291,756,ML Guide,Books,4,1148.43
+2292,756,USB Cable,Electronics,1,799.08
+2293,756,Candle,Home & Kitchen,3,208.55
+2294,756,Oats,Food,3,180.5
+2295,756,Board Game,Toys,3,1438.22
+2296,757,Power Bank,Electronics,2,485.5
+2297,757,USB Cable,Electronics,3,1658.43
+2298,757,Honey,Food,2,1578.18
+2299,758,Almonds,Food,2,1657.07
+2300,758,AI Primer,Books,1,626.46
+2301,758,Bluetooth Speaker,Electronics,2,1070.83
+2302,759,Water Bottle,Sports,4,874.83
+2303,759,USB Cable,Electronics,3,448.27
+2304,759,Yoga Mat,Sports,1,1320.69
+2305,759,Puzzle,Toys,3,956.63
+2306,759,Blender,Home & Kitchen,4,1132.77
+2307,760,Almonds,Food,1,1876.96
+2308,760,Almonds,Food,2,1427.28
+2309,760,Almonds,Food,2,1193.64
+2310,760,Face Cream,Beauty,1,152.23
+2311,760,Sunscreen,Beauty,4,769.2
+2312,761,Stuffed Animal,Toys,1,1276.34
+2313,761,Perfume,Beauty,2,686.89
+2314,761,Bluetooth Speaker,Electronics,3,681.83
+2315,762,Smart Watch,Electronics,1,1459.41
+2316,762,Blender,Home & Kitchen,1,1857.55
+2317,762,Knife Set,Home & Kitchen,1,1069.42
+2318,762,Python Handbook,Books,3,1946.02
+2319,762,Face Cream,Beauty,4,719.97
+2320,763,Oats,Food,1,1073.12
+2321,764,Candle,Home & Kitchen,1,1638.01
+2322,764,Green Tea,Food,1,1537.39
+2323,764,Water Bottle,Sports,2,160.2
+2324,764,Multivitamin,Health,1,1303.66
+2325,765,Protein Bar,Food,1,477.05
+2326,765,ML Guide,Books,2,1026.14
+2327,766,RC Car,Toys,4,87.55
+2328,766,Jump Rope,Sports,1,1355.8
+2329,766,Stuffed Animal,Toys,1,128.25
+2330,767,Phone Case,Electronics,2,1186.34
+2331,767,USB Cable,Electronics,1,1184.09
+2332,767,Sunscreen,Beauty,2,824.5
+2333,767,Candle,Home & Kitchen,1,1834.64
+2334,767,Desk Lamp,Office,3,1134.71
+2335,768,Board Game,Toys,2,1520.63
+2336,768,Resistance Band,Sports,2,687.76
+2337,768,Jump Rope,Sports,1,1318.4
+2338,768,Protein Bar,Food,4,1226.57
+2339,768,Bandages,Health,2,410.42
+2340,769,Puzzle,Toys,2,440.28
+2341,770,Tennis Ball,Sports,2,1778.97
+2342,770,Resistance Band,Sports,4,156.02
+2343,770,AI Primer,Books,3,472.77
+2344,770,USB Cable,Electronics,1,472.03
+2345,770,Towel Set,Home & Kitchen,2,1024.21
+2346,771,Perfume,Beauty,4,1223.54
+2347,771,Blender,Home & Kitchen,4,1143.62
+2348,771,Tennis Ball,Sports,2,201.46
+2349,771,T-Shirt,Clothing,1,1257.59
+2350,772,Yoga Mat,Sports,3,917.87
+2351,773,Coffee Mug,Home & Kitchen,1,767.7
+2352,773,SQL Mastery,Books,3,198.39
+2353,773,RC Car,Toys,1,630.07
+2354,773,Wireless Earbuds,Electronics,3,326.58
+2355,773,Green Tea,Food,1,1842.84
+2356,774,Green Tea,Food,1,269.54
+2357,775,Honey,Food,3,576.63
+2358,775,Mouse Pad,Office,1,1476.3
+2359,776,Python Handbook,Books,4,1372.14
+2360,776,Wireless Earbuds,Electronics,4,893.35
+2361,777,Board Game,Toys,1,1174.68
+2362,777,Bluetooth Speaker,Electronics,1,1920.89
+2363,777,Tennis Ball,Sports,3,1451.8
+2364,777,Data Science 101,Books,1,1358.92
+2365,778,Stats Book,Books,4,1630.19
+2366,778,Smart Watch,Electronics,4,1139.94
+2367,779,Stats Book,Books,1,608.71
+2368,779,Scarf,Clothing,3,939.7
+2369,779,Honey,Food,2,777.87
+2370,779,Hair Oil,Beauty,2,675.39
+2371,780,Board Game,Toys,4,775.61
+2372,780,Lipstick,Beauty,2,1637.74
+2373,780,Dark Chocolate,Food,4,752.64
+2374,781,Scarf,Clothing,3,1775.31
+2375,781,Lipstick,Beauty,4,929.0
+2376,781,Sanitizer,Health,2,1784.99
+2377,781,Sunscreen,Beauty,2,1217.65
+2378,782,Candle,Home & Kitchen,2,1955.6
+2379,782,Stats Book,Books,4,209.4
+2380,782,Puzzle,Toys,1,1063.16
+2381,782,Notebook,Office,3,1872.29
+2382,782,Plant Pot,Home & Kitchen,2,1383.82
+2383,783,Protein Bar,Food,3,1477.12
+2384,783,Sunscreen,Beauty,4,1070.09
+2385,783,Board Game,Toys,3,1512.16
+2386,784,Stats Book,Books,4,353.62
+2387,785,Smart Watch,Electronics,1,1015.65
+2388,785,Socks,Clothing,3,521.58
+2389,786,Water Bottle,Sports,1,1905.52
+2390,786,Python Handbook,Books,1,110.64
+2391,786,Jeans,Clothing,2,1663.93
+2392,786,T-Shirt,Clothing,3,932.57
+2393,787,Action Figure,Toys,4,70.61
+2394,788,Resistance Band,Sports,4,781.09
+2395,788,Jump Rope,Sports,4,1288.68
+2396,788,Notebook,Office,4,1955.18
+2397,788,Almonds,Food,3,110.53
+2398,788,Oats,Food,1,874.27
+2399,789,Desk Lamp,Office,4,1989.54
+2400,789,Puzzle,Toys,4,1530.15
+2401,789,Jacket,Clothing,3,1110.28
+2402,789,Jeans,Clothing,1,936.64
+2403,789,Shampoo,Beauty,4,116.97
+2404,790,Sanitizer,Health,4,472.28
+2405,790,Puzzle,Toys,1,1383.46
+2406,790,Sticky Notes,Office,1,1874.3
+2407,791,Scarf,Clothing,2,953.2
+2408,791,Mouse Pad,Office,1,543.75
+2409,791,Socks,Clothing,4,389.14
+2410,791,Almonds,Food,2,127.64
+2411,792,Perfume,Beauty,1,1389.27
+2412,792,Jeans,Clothing,4,998.18
+2413,792,Power Bank,Electronics,2,1556.3
+2414,792,USB Cable,Electronics,2,485.67
+2415,792,Mouse Pad,Office,2,1441.96
+2416,793,Jeans,Clothing,2,307.4
+2417,794,Notebook,Office,4,1017.48
+2418,794,Puzzle,Toys,3,1287.92
+2419,794,Jacket,Clothing,4,115.4
+2420,794,Stuffed Animal,Toys,4,180.53
+2421,794,Sneakers,Clothing,3,975.52
+2422,795,ML Guide,Books,1,97.01
+2423,795,Scarf,Clothing,2,1346.05
+2424,795,Dark Chocolate,Food,3,1136.87
+2425,795,Protein Bar,Food,2,1185.13
+2426,795,Scarf,Clothing,1,502.88
+2427,796,Water Bottle,Sports,4,71.83
+2428,796,Smart Watch,Electronics,1,269.87
+2429,797,Stapler,Office,1,641.52
+2430,797,Towel Set,Home & Kitchen,2,1728.14
+2431,797,ML Guide,Books,4,982.64
+2432,798,Jeans,Clothing,4,1128.41
+2433,798,Multivitamin,Health,2,1350.81
+2434,799,Coffee Mug,Home & Kitchen,4,1051.1
+2435,799,Scarf,Clothing,2,531.78
+2436,799,RC Car,Toys,3,1878.34
+2437,799,Jump Rope,Sports,1,1517.12
+2438,799,USB Cable,Electronics,4,103.95
+2439,800,LEGO Set,Toys,2,1509.79
+2440,800,Blender,Home & Kitchen,4,1309.78
+2441,800,Knife Set,Home & Kitchen,3,1019.41
+2442,801,Stuffed Animal,Toys,1,863.77
+2443,802,Socks,Clothing,2,1557.19
+2444,802,USB Cable,Electronics,3,816.87
+2445,802,Dark Chocolate,Food,3,641.82
+2446,802,Thermometer,Health,3,1842.69
+2447,802,Honey,Food,4,802.88
+2448,803,Sanitizer,Health,2,965.19
+2449,803,Socks,Clothing,4,1951.69
+2450,803,Thermometer,Health,1,540.61
+2451,803,Resistance Band,Sports,3,1209.15
+2452,803,Data Science 101,Books,3,1819.07
+2453,804,Data Science 101,Books,3,424.1
+2454,804,Sunscreen,Beauty,4,593.12
+2455,804,Mouse Pad,Office,2,1548.21
+2456,804,Plant Pot,Home & Kitchen,3,420.43
+2457,804,Hair Oil,Beauty,3,448.71
+2458,805,Stapler,Office,2,278.56
+2459,805,Tennis Ball,Sports,2,451.18
+2460,805,Shampoo,Beauty,4,781.25
+2461,805,LEGO Set,Toys,3,1868.34
+2462,806,Whey Protein,Health,2,546.72
+2463,806,Sneakers,Clothing,1,1934.7
+2464,806,Bandages,Health,1,179.77
+2465,806,Jump Rope,Sports,4,1872.76
+2466,807,Desk Lamp,Office,4,438.42
+2467,807,Power Bank,Electronics,4,1210.78
+2468,807,Oats,Food,4,660.63
+2469,807,Knife Set,Home & Kitchen,1,754.6
+2470,807,Wireless Earbuds,Electronics,1,590.84
+2471,808,Whey Protein,Health,2,1578.55
+2472,808,Board Game,Toys,1,1788.06
+2473,808,Notebook,Office,1,267.29
+2474,808,Sticky Notes,Office,3,604.17
+2475,808,ML Guide,Books,2,1255.71
+2476,809,Dumbbells,Sports,3,1689.5
+2477,809,Coffee Mug,Home & Kitchen,3,1536.58
+2478,809,Blender,Home & Kitchen,2,1106.34
+2479,809,Phone Case,Electronics,1,1163.92
+2480,809,Desk Lamp,Office,4,292.9
+2481,810,Board Game,Toys,2,946.04
+2482,810,Knife Set,Home & Kitchen,2,594.97
+2483,811,Stats Book,Books,3,898.63
+2484,812,LEGO Set,Toys,2,502.75
+2485,812,Jacket,Clothing,4,912.93
+2486,812,Stuffed Animal,Toys,4,94.9
+2487,812,Water Bottle,Sports,4,901.47
+2488,812,Whey Protein,Health,3,90.4
+2489,813,Mouse Pad,Office,4,1232.78
+2490,813,Shampoo,Beauty,1,1221.86
+2491,813,Board Game,Toys,4,453.91
+2492,813,Lipstick,Beauty,4,584.58
+2493,813,Water Bottle,Sports,4,1220.85
+2494,814,Bluetooth Speaker,Electronics,2,1308.68
+2495,814,Jacket,Clothing,1,808.3
+2496,814,Lipstick,Beauty,4,89.96
+2497,814,RC Car,Toys,4,1822.92
+2498,815,Action Figure,Toys,3,495.69
+2499,816,Jump Rope,Sports,2,378.66
+2500,816,Sticky Notes,Office,2,1699.51
+2501,816,Action Figure,Toys,1,1533.38
+2502,817,Coffee Mug,Home & Kitchen,1,538.26
+2503,818,Jump Rope,Sports,2,621.65
+2504,818,Action Figure,Toys,2,496.72
+2505,818,Water Bottle,Sports,1,502.04
+2506,818,Scarf,Clothing,1,1166.59
+2507,818,Towel Set,Home & Kitchen,4,1886.93
+2508,819,Python Handbook,Books,2,1225.14
+2509,819,T-Shirt,Clothing,1,574.64
+2510,820,Multivitamin,Health,4,1129.21
+2511,820,Hair Oil,Beauty,2,347.8
+2512,821,Python Handbook,Books,3,1718.04
+2513,821,Dumbbells,Sports,1,1026.78
+2514,822,Board Game,Toys,2,144.27
+2515,823,Knife Set,Home & Kitchen,3,1169.04
+2516,823,Jump Rope,Sports,2,937.14
+2517,824,ML Guide,Books,1,180.79
+2518,825,Coffee Mug,Home & Kitchen,3,948.51
+2519,825,Dark Chocolate,Food,4,1123.12
+2520,825,Stuffed Animal,Toys,4,1926.1
+2521,825,Whey Protein,Health,4,1515.68
+2522,826,Board Game,Toys,4,296.17
+2523,826,Phone Case,Electronics,1,1219.61
+2524,826,Lipstick,Beauty,1,1228.57
+2525,826,LEGO Set,Toys,4,634.06
+2526,826,USB Cable,Electronics,4,437.47
+2527,827,SQL Mastery,Books,2,927.38
+2528,828,Plant Pot,Home & Kitchen,3,822.9
+2529,828,Coffee Mug,Home & Kitchen,2,1812.14
+2530,828,Jump Rope,Sports,4,959.38
+2531,828,Almonds,Food,2,953.43
+2532,828,Puzzle,Toys,2,1898.06
+2533,829,Resistance Band,Sports,1,733.58
+2534,830,Puzzle,Toys,3,741.81
+2535,830,Thermometer,Health,4,129.02
+2536,830,Protein Bar,Food,3,696.33
+2537,830,Dumbbells,Sports,2,71.56
+2538,831,Plant Pot,Home & Kitchen,3,166.78
+2539,832,Stats Book,Books,3,97.07
+2540,832,Action Figure,Toys,4,726.51
+2541,832,Lipstick,Beauty,3,149.29
+2542,832,Thermometer,Health,1,1772.89
+2543,832,Oats,Food,1,1349.32
+2544,833,Stapler,Office,1,1997.36
+2545,833,Blender,Home & Kitchen,3,1338.2
+2546,833,Dark Chocolate,Food,3,330.71
+2547,833,Python Handbook,Books,4,587.73
+2548,833,Python Handbook,Books,1,640.68
+2549,834,SQL Mastery,Books,2,864.3
+2550,834,Blender,Home & Kitchen,3,1981.33
+2551,835,Wireless Earbuds,Electronics,2,1724.74
+2552,835,Tennis Ball,Sports,4,1584.67
+2553,836,Green Tea,Food,4,272.76
+2554,836,Almonds,Food,3,1708.66
+2555,837,Stapler,Office,3,1281.47
+2556,837,Sunscreen,Beauty,2,1352.12
+2557,837,Stapler,Office,3,1622.07
+2558,838,Python Handbook,Books,4,992.62
+2559,838,Sunscreen,Beauty,3,1022.81
+2560,839,Smart Watch,Electronics,3,1613.26
+2561,839,Yoga Mat,Sports,2,1132.28
+2562,839,ML Guide,Books,4,1815.09
+2563,839,Socks,Clothing,3,854.66
+2564,840,Stuffed Animal,Toys,3,633.21
+2565,840,ML Guide,Books,4,1899.56
+2566,840,Sneakers,Clothing,1,899.47
+2567,840,Board Game,Toys,4,972.69
+2568,841,Lipstick,Beauty,1,650.61
+2569,842,Oats,Food,2,840.37
+2570,842,Data Science 101,Books,2,1240.62
+2571,842,Towel Set,Home & Kitchen,2,1216.07
+2572,842,Mouse Pad,Office,1,246.29
+2573,843,Phone Case,Electronics,4,1010.66
+2574,844,Coffee Mug,Home & Kitchen,1,968.86
+2575,845,Towel Set,Home & Kitchen,3,1373.54
+2576,846,Notebook,Office,1,372.18
+2577,846,Resistance Band,Sports,1,125.94
+2578,846,Notebook,Office,1,1248.01
+2579,847,Blender,Home & Kitchen,4,259.7
+2580,847,Desk Lamp,Office,1,1672.01
+2581,848,Coffee Mug,Home & Kitchen,4,1232.03
+2582,848,Water Bottle,Sports,1,1018.01
+2583,848,Stats Book,Books,3,112.47
+2584,849,Plant Pot,Home & Kitchen,4,1630.03
+2585,849,Sunscreen,Beauty,3,622.62
+2586,849,LEGO Set,Toys,2,1598.8
+2587,850,Shampoo,Beauty,2,949.51
+2588,850,Coffee Mug,Home & Kitchen,1,164.56
+2589,850,Jeans,Clothing,1,1996.54
+2590,851,Plant Pot,Home & Kitchen,1,600.83
+2591,851,Hair Oil,Beauty,3,1179.58
+2592,852,LEGO Set,Toys,1,1863.25
+2593,852,Sanitizer,Health,3,1878.0
+2594,852,SQL Mastery,Books,1,760.21
+2595,852,Board Game,Toys,3,178.81
+2596,853,Jump Rope,Sports,2,1634.41
+2597,854,RC Car,Toys,3,926.74
+2598,854,Hair Oil,Beauty,4,1333.89
+2599,854,Sticky Notes,Office,2,64.51
+2600,854,Towel Set,Home & Kitchen,4,231.77
+2601,855,Coffee Mug,Home & Kitchen,2,518.05
+2602,855,Mouse Pad,Office,3,1819.25
+2603,855,Blender,Home & Kitchen,1,1553.18
+2604,856,Sunscreen,Beauty,3,707.5
+2605,856,Jacket,Clothing,2,461.57
+2606,856,Hair Oil,Beauty,3,1085.19
+2607,857,Stapler,Office,2,898.13
+2608,857,Power Bank,Electronics,3,1100.64
+2609,857,Protein Bar,Food,3,698.58
+2610,857,Stuffed Animal,Toys,1,975.31
+2611,857,LEGO Set,Toys,2,1850.02
+2612,858,SQL Mastery,Books,3,635.55
+2613,858,Phone Case,Electronics,3,819.88
+2614,858,Smart Watch,Electronics,2,129.06
+2615,858,Green Tea,Food,4,54.39
+2616,858,Wireless Earbuds,Electronics,3,1093.75
+2617,859,Puzzle,Toys,3,1549.36
+2618,859,Power Bank,Electronics,2,1091.48
+2619,859,Whey Protein,Health,1,1717.71
+2620,859,Stuffed Animal,Toys,3,395.61
+2621,859,Python Handbook,Books,4,205.37
+2622,860,Protein Bar,Food,1,303.26
+2623,860,Water Bottle,Sports,3,1360.03
+2624,861,Blender,Home & Kitchen,2,1471.87
+2625,861,Face Cream,Beauty,3,653.51
+2626,861,Sanitizer,Health,1,198.64
+2627,861,Coffee Mug,Home & Kitchen,1,1909.49
+2628,862,Water Bottle,Sports,1,1541.56
+2629,863,Scarf,Clothing,4,1046.02
+2630,863,Dark Chocolate,Food,3,1581.72
+2631,863,Face Cream,Beauty,3,393.98
+2632,864,Whey Protein,Health,1,1826.29
+2633,864,Notebook,Office,1,366.47
+2634,865,Candle,Home & Kitchen,2,983.45
+2635,865,Face Cream,Beauty,3,1714.34
+2636,865,Puzzle,Toys,4,464.1
+2637,866,Sticky Notes,Office,4,1558.25
+2638,866,Socks,Clothing,2,1677.3
+2639,867,Bandages,Health,4,678.32
+2640,867,Shampoo,Beauty,1,120.94
+2641,867,Python Handbook,Books,3,83.39
+2642,867,Hair Oil,Beauty,3,860.29
+2643,868,Perfume,Beauty,1,311.46
+2644,869,Stapler,Office,1,1206.13
+2645,870,Honey,Food,3,283.52
+2646,870,Bluetooth Speaker,Electronics,3,529.77
+2647,870,Bandages,Health,3,125.93
+2648,870,T-Shirt,Clothing,3,1346.41
+2649,871,Jump Rope,Sports,2,597.3
+2650,871,Puzzle,Toys,3,196.47
+2651,872,Jump Rope,Sports,1,100.99
+2652,872,Resistance Band,Sports,2,1438.01
+2653,872,Candle,Home & Kitchen,1,756.94
+2654,873,Resistance Band,Sports,3,1782.4
+2655,874,Pen Set,Office,1,501.46
+2656,874,Resistance Band,Sports,1,1632.58
+2657,875,Sticky Notes,Office,3,1817.32
+2658,875,Yoga Mat,Sports,4,1516.99
+2659,875,USB Cable,Electronics,4,231.29
+2660,875,Lipstick,Beauty,1,316.94
+2661,875,Scarf,Clothing,1,258.32
+2662,876,Power Bank,Electronics,3,841.68
+2663,876,Sneakers,Clothing,2,1202.17
+2664,876,Omega-3,Health,1,701.42
+2665,876,Plant Pot,Home & Kitchen,1,1280.14
+2666,877,Green Tea,Food,2,380.27
+2667,878,SQL Mastery,Books,1,1378.75
+2668,878,Dumbbells,Sports,2,1010.67
+2669,878,Python Handbook,Books,4,461.46
+2670,878,Board Game,Toys,3,721.32
+2671,878,Stuffed Animal,Toys,4,1825.96
+2672,879,Water Bottle,Sports,1,1428.46
+2673,879,Tennis Ball,Sports,4,52.83
+2674,879,Jacket,Clothing,2,1506.23
+2675,880,Pen Set,Office,1,1935.99
+2676,880,ML Guide,Books,1,500.17
+2677,881,Bluetooth Speaker,Electronics,1,1383.93
+2678,881,Knife Set,Home & Kitchen,3,1920.83
+2679,882,Bluetooth Speaker,Electronics,2,1448.61
+2680,882,Power Bank,Electronics,1,715.65
+2681,882,Green Tea,Food,2,1462.41
+2682,882,Sneakers,Clothing,3,1955.64
+2683,882,RC Car,Toys,3,914.65
+2684,883,Knife Set,Home & Kitchen,4,738.7
+2685,883,SQL Mastery,Books,4,1900.83
+2686,884,USB Cable,Electronics,1,894.92
+2687,884,Coffee Mug,Home & Kitchen,1,1509.23
+2688,884,Whey Protein,Health,2,856.14
+2689,884,Water Bottle,Sports,3,594.69
+2690,885,Power Bank,Electronics,1,1193.64
+2691,885,Lipstick,Beauty,2,926.22
+2692,885,Jump Rope,Sports,4,575.8
+2693,885,Green Tea,Food,4,1814.37
+2694,886,Stats Book,Books,4,799.93
+2695,887,Sanitizer,Health,2,264.16
+2696,887,Sunscreen,Beauty,3,1395.32
+2697,887,Tennis Ball,Sports,3,1505.49
+2698,887,Wireless Earbuds,Electronics,1,520.39
+2699,887,Resistance Band,Sports,2,1527.59
+2700,888,Stapler,Office,2,1273.66
+2701,888,Multivitamin,Health,2,1919.31
+2702,888,Hair Oil,Beauty,4,1157.5
+2703,888,Power Bank,Electronics,2,415.38
+2704,888,Tennis Ball,Sports,4,539.78
+2705,889,Pen Set,Office,4,1356.18
+2706,889,Stapler,Office,3,237.38
+2707,889,Honey,Food,2,1786.0
+2708,890,USB Cable,Electronics,3,969.2
+2709,890,AI Primer,Books,3,1011.64
+2710,890,Stuffed Animal,Toys,1,1394.97
+2711,891,Pen Set,Office,2,850.93
+2712,892,SQL Mastery,Books,4,1093.21
+2713,893,Socks,Clothing,4,1450.94
+2714,894,ML Guide,Books,3,238.87
+2715,894,Yoga Mat,Sports,4,284.54
+2716,895,Mouse Pad,Office,2,232.29
+2717,895,AI Primer,Books,1,232.34
+2718,895,Dumbbells,Sports,2,136.13
+2719,896,Omega-3,Health,1,1856.15
+2720,896,Green Tea,Food,4,1780.56
+2721,896,T-Shirt,Clothing,2,1853.38
+2722,897,Power Bank,Electronics,3,1872.58
+2723,897,Honey,Food,2,102.45
+2724,897,Socks,Clothing,1,1351.23
+2725,898,Knife Set,Home & Kitchen,2,1488.08
+2726,898,Knife Set,Home & Kitchen,2,435.41
+2727,899,Protein Bar,Food,4,489.97
+2728,899,Coffee Mug,Home & Kitchen,1,1465.2
+2729,899,Data Science 101,Books,3,1677.76
+2730,900,Plant Pot,Home & Kitchen,1,1675.56
+2731,900,Blender,Home & Kitchen,4,64.86
+2732,900,Face Cream,Beauty,2,1384.66
+2733,900,Puzzle,Toys,1,1540.61
+2734,901,Jeans,Clothing,4,261.46
+2735,901,Stats Book,Books,2,568.97
+2736,902,Sanitizer,Health,3,1778.46
+2737,902,Candle,Home & Kitchen,2,1909.56
+2738,902,Board Game,Toys,4,594.39
+2739,902,Dumbbells,Sports,2,1856.12
+2740,902,Phone Case,Electronics,4,626.29
+2741,903,Protein Bar,Food,1,1603.37
+2742,903,Coffee Mug,Home & Kitchen,2,1487.16
+2743,903,Multivitamin,Health,4,819.48
+2744,903,Sticky Notes,Office,2,153.02
+2745,903,Candle,Home & Kitchen,2,1607.94
+2746,904,Smart Watch,Electronics,1,520.91
+2747,904,Multivitamin,Health,3,1073.9
+2748,905,Resistance Band,Sports,3,1120.37
+2749,906,Power Bank,Electronics,4,1707.98
+2750,906,ML Guide,Books,2,1412.61
+2751,907,Omega-3,Health,4,189.3
+2752,908,Socks,Clothing,3,948.75
+2753,908,Resistance Band,Sports,1,114.56
+2754,908,Wireless Earbuds,Electronics,1,1732.63
+2755,908,Wireless Earbuds,Electronics,3,371.6
+2756,908,Notebook,Office,1,1391.51
+2757,909,Jacket,Clothing,3,161.63
+2758,909,Notebook,Office,2,1977.39
+2759,909,Perfume,Beauty,1,1599.64
+2760,909,Sanitizer,Health,3,1517.43
+2761,910,Coffee Mug,Home & Kitchen,2,1220.68
+2762,910,Stapler,Office,4,610.01
+2763,910,Multivitamin,Health,2,392.66
+2764,911,Thermometer,Health,1,662.52
+2765,911,Protein Bar,Food,4,961.26
+2766,911,Smart Watch,Electronics,1,55.45
+2767,912,SQL Mastery,Books,3,1291.5
+2768,912,Sneakers,Clothing,3,1083.57
+2769,912,LEGO Set,Toys,1,509.81
+2770,913,Dumbbells,Sports,2,1981.8
+2771,913,Hair Oil,Beauty,1,764.11
+2772,914,Mouse Pad,Office,1,1127.46
+2773,914,Bluetooth Speaker,Electronics,4,153.42
+2774,915,SQL Mastery,Books,4,1255.28
+2775,915,Smart Watch,Electronics,2,295.25
+2776,916,Yoga Mat,Sports,1,1737.24
+2777,917,Multivitamin,Health,1,560.14
+2778,917,Tennis Ball,Sports,2,1117.58
+2779,917,Oats,Food,2,1055.54
+2780,918,AI Primer,Books,1,829.43
+2781,918,ML Guide,Books,1,325.93
+2782,918,Stuffed Animal,Toys,3,1465.68
+2783,918,Thermometer,Health,3,844.9
+2784,919,Phone Case,Electronics,4,1525.13
+2785,919,Towel Set,Home & Kitchen,4,467.05
+2786,920,Yoga Mat,Sports,4,1753.22
+2787,920,Action Figure,Toys,4,355.51
+2788,920,Lipstick,Beauty,1,413.85
+2789,921,Lipstick,Beauty,2,622.97
+2790,921,Bluetooth Speaker,Electronics,1,966.17
+2791,922,Action Figure,Toys,3,1050.31
+2792,922,Thermometer,Health,1,1555.47
+2793,922,Sneakers,Clothing,2,1134.38
+2794,923,Omega-3,Health,3,696.52
+2795,923,Blender,Home & Kitchen,1,1363.67
+2796,923,Face Cream,Beauty,3,1389.31
+2797,923,USB Cable,Electronics,2,449.05
+2798,923,ML Guide,Books,3,428.94
+2799,924,Dumbbells,Sports,3,1772.79
+2800,924,Jacket,Clothing,2,1623.07
+2801,924,T-Shirt,Clothing,1,1437.05
+2802,924,Honey,Food,4,1456.44
+2803,924,Scarf,Clothing,1,1232.59
+2804,925,AI Primer,Books,1,1280.2
+2805,925,SQL Mastery,Books,2,312.68
+2806,926,Python Handbook,Books,4,1716.89
+2807,926,T-Shirt,Clothing,4,1528.88
+2808,926,Perfume,Beauty,1,950.34
+2809,927,Stuffed Animal,Toys,1,70.81
+2810,927,Knife Set,Home & Kitchen,1,1994.66
+2811,927,Smart Watch,Electronics,1,702.45
+2812,927,Puzzle,Toys,2,1683.31
+2813,927,Multivitamin,Health,2,1392.37
+2814,928,Dark Chocolate,Food,4,564.58
+2815,928,Dumbbells,Sports,1,1922.72
+2816,928,Puzzle,Toys,2,813.93
+2817,929,Shampoo,Beauty,1,198.69
+2818,929,Notebook,Office,1,1748.14
+2819,929,Desk Lamp,Office,1,1101.5
+2820,929,ML Guide,Books,4,1083.28
+2821,929,Face Cream,Beauty,2,1525.22
+2822,930,ML Guide,Books,2,1886.12
+2823,930,Stapler,Office,2,193.33
+2824,930,Almonds,Food,3,708.5
+2825,930,T-Shirt,Clothing,3,1870.87
+2826,931,Candle,Home & Kitchen,4,1884.3
+2827,931,USB Cable,Electronics,1,1567.14
+2828,931,Shampoo,Beauty,4,1874.41
+2829,932,RC Car,Toys,1,1062.71
+2830,932,T-Shirt,Clothing,2,881.71
+2831,932,Wireless Earbuds,Electronics,2,1755.92
+2832,932,Smart Watch,Electronics,2,754.58
+2833,933,Notebook,Office,1,803.25
+2834,933,Protein Bar,Food,3,1883.6
+2835,933,Python Handbook,Books,2,1546.81
+2836,933,Resistance Band,Sports,3,151.5
+2837,934,Thermometer,Health,2,900.67
+2838,934,Jacket,Clothing,4,877.72
+2839,934,Sanitizer,Health,2,1261.3
+2840,934,Whey Protein,Health,3,1511.84
+2841,935,Jeans,Clothing,3,1797.9
+2842,936,Bandages,Health,2,718.09
+2843,937,Dark Chocolate,Food,2,844.54
+2844,937,ML Guide,Books,3,1248.29
+2845,938,Wireless Earbuds,Electronics,3,930.49
+2846,939,Notebook,Office,3,1986.72
+2847,940,Sneakers,Clothing,3,1169.47
+2848,940,Bluetooth Speaker,Electronics,4,1984.19
+2849,940,Pen Set,Office,4,1524.63
+2850,940,Stapler,Office,4,1544.93
+2851,940,Mouse Pad,Office,3,1669.05
+2852,941,Sticky Notes,Office,4,224.83
+2853,941,Whey Protein,Health,2,1093.77
+2854,941,Sunscreen,Beauty,4,1291.72
+2855,941,Pen Set,Office,2,694.19
+2856,941,Sneakers,Clothing,1,1555.98
+2857,942,Stapler,Office,2,1908.91
+2858,942,Python Handbook,Books,2,1686.41
+2859,942,Data Science 101,Books,2,1563.72
+2860,943,Stuffed Animal,Toys,1,845.25
+2861,943,Smart Watch,Electronics,4,352.25
+2862,943,Jacket,Clothing,4,1946.07
+2863,943,Bluetooth Speaker,Electronics,4,389.13
+2864,944,Dumbbells,Sports,2,1063.99
+2865,944,Data Science 101,Books,3,1317.87
+2866,945,Plant Pot,Home & Kitchen,1,1680.14
+2867,945,Yoga Mat,Sports,3,1922.04
+2868,945,Jeans,Clothing,4,715.61
+2869,945,Omega-3,Health,4,1201.5
+2870,945,Sunscreen,Beauty,2,896.58
+2871,946,Scarf,Clothing,4,1167.18
+2872,946,Perfume,Beauty,1,1850.75
+2873,946,Python Handbook,Books,4,1627.05
+2874,947,Knife Set,Home & Kitchen,3,1164.44
+2875,948,Water Bottle,Sports,3,827.41
+2876,949,AI Primer,Books,3,1707.04
+2877,949,Tennis Ball,Sports,1,1716.54
+2878,950,Green Tea,Food,1,62.7
+2879,950,Bandages,Health,4,1819.31
+2880,951,T-Shirt,Clothing,1,1675.74
+2881,951,Stuffed Animal,Toys,2,196.36
+2882,951,AI Primer,Books,3,1655.94
+2883,951,Wireless Earbuds,Electronics,1,781.62
+2884,952,Sticky Notes,Office,3,206.2
+2885,953,Socks,Clothing,3,155.93
+2886,953,Board Game,Toys,2,1750.09
+2887,953,Dark Chocolate,Food,4,1272.61
+2888,953,Bluetooth Speaker,Electronics,3,480.0
+2889,953,Resistance Band,Sports,1,1796.65
+2890,954,Honey,Food,3,811.94
+2891,954,Bluetooth Speaker,Electronics,4,1776.6
+2892,954,LEGO Set,Toys,2,1212.81
+2893,954,Face Cream,Beauty,1,1504.43
+2894,955,Oats,Food,1,1964.87
+2895,955,Sticky Notes,Office,1,1549.77
+2896,955,Yoga Mat,Sports,4,1876.32
+2897,955,Whey Protein,Health,1,1942.08
+2898,956,SQL Mastery,Books,2,223.91
+2899,956,Towel Set,Home & Kitchen,3,1444.09
+2900,957,Data Science 101,Books,4,261.99
+2901,957,Multivitamin,Health,4,70.75
+2902,958,T-Shirt,Clothing,2,50.91
+2903,958,Jeans,Clothing,4,514.05
+2904,959,Shampoo,Beauty,4,1016.71
+2905,959,Desk Lamp,Office,4,286.47
+2906,959,SQL Mastery,Books,1,1788.23
+2907,959,Whey Protein,Health,3,565.97
+2908,959,Bluetooth Speaker,Electronics,2,1735.89
+2909,960,Phone Case,Electronics,4,623.33
+2910,960,Wireless Earbuds,Electronics,4,587.01
+2911,960,Phone Case,Electronics,4,449.54
+2912,961,Jacket,Clothing,4,1091.65
+2913,961,Blender,Home & Kitchen,4,1351.19
+2914,961,Knife Set,Home & Kitchen,1,77.33
+2915,962,Jacket,Clothing,2,249.56
+2916,962,Data Science 101,Books,4,384.66
+2917,963,Hair Oil,Beauty,4,1579.57
+2918,963,Mouse Pad,Office,2,1527.86
+2919,963,AI Primer,Books,2,1759.45
+2920,963,Omega-3,Health,3,846.43
+2921,963,Shampoo,Beauty,4,1921.55
+2922,964,Dark Chocolate,Food,4,835.42
+2923,965,Oats,Food,1,835.19
+2924,966,SQL Mastery,Books,2,1727.2
+2925,966,USB Cable,Electronics,1,783.43
+2926,966,Coffee Mug,Home & Kitchen,2,401.88
+2927,966,Lipstick,Beauty,2,218.07
+2928,967,Face Cream,Beauty,3,1101.2
+2929,967,Protein Bar,Food,3,839.62
+2930,967,Plant Pot,Home & Kitchen,1,1069.53
+2931,967,Coffee Mug,Home & Kitchen,2,688.42
+2932,968,Honey,Food,1,1137.18
+2933,968,Sanitizer,Health,3,508.68
+2934,968,Stapler,Office,3,1577.53
+2935,968,Phone Case,Electronics,2,1789.74
+2936,969,Face Cream,Beauty,2,1341.51
+2937,970,RC Car,Toys,3,1039.35
+2938,970,Tennis Ball,Sports,2,631.37
+2939,970,Desk Lamp,Office,1,1312.18
+2940,970,Resistance Band,Sports,4,1270.83
+2941,970,Bandages,Health,1,1405.8
+2942,971,Sneakers,Clothing,2,508.8
+2943,971,Bandages,Health,4,811.47
+2944,971,AI Primer,Books,2,101.12
+2945,971,Mouse Pad,Office,3,791.87
+2946,972,Notebook,Office,4,1015.05
+2947,973,Oats,Food,2,1721.2
+2948,973,Mouse Pad,Office,4,1451.15
+2949,973,Knife Set,Home & Kitchen,3,1056.43
+2950,973,SQL Mastery,Books,1,1591.53
+2951,973,Whey Protein,Health,1,827.26
+2952,974,Data Science 101,Books,1,1406.23
+2953,974,Bluetooth Speaker,Electronics,3,1523.36
+2954,975,RC Car,Toys,3,1386.94
+2955,975,Notebook,Office,1,1362.37
+2956,975,Towel Set,Home & Kitchen,2,1567.84
+2957,975,Lipstick,Beauty,3,539.85
+2958,976,LEGO Set,Toys,4,432.41
+2959,976,Sunscreen,Beauty,3,412.09
+2960,976,Stats Book,Books,2,1382.87
+2961,976,Desk Lamp,Office,4,1669.1
+2962,976,ML Guide,Books,1,713.36
+2963,977,Yoga Mat,Sports,3,413.87
+2964,977,Hair Oil,Beauty,4,396.9
+2965,978,Board Game,Toys,2,837.12
+2966,978,Pen Set,Office,2,719.48
+2967,978,Sticky Notes,Office,3,249.33
+2968,979,Scarf,Clothing,4,770.0
+2969,979,Bluetooth Speaker,Electronics,4,1061.92
+2970,979,Stuffed Animal,Toys,3,80.48
+2971,979,Perfume,Beauty,3,1658.48
+2972,979,Python Handbook,Books,2,647.91
+2973,980,Socks,Clothing,1,1856.32
+2974,980,Jacket,Clothing,4,371.39
+2975,980,AI Primer,Books,3,1184.86
+2976,980,Yoga Mat,Sports,1,1685.2
+2977,980,SQL Mastery,Books,3,222.0
+2978,981,Protein Bar,Food,3,1663.82
+2979,981,Python Handbook,Books,2,1471.42
+2980,981,Sunscreen,Beauty,2,1644.2
+2981,982,Multivitamin,Health,2,1607.67
+2982,982,Almonds,Food,1,81.31
+2983,982,Desk Lamp,Office,2,1409.4
+2984,982,Sneakers,Clothing,1,118.62
+2985,983,Blender,Home & Kitchen,4,1250.65
+2986,983,Socks,Clothing,4,1144.9
+2987,983,Sticky Notes,Office,2,1527.64
+2988,984,Resistance Band,Sports,2,508.27
+2989,985,Thermometer,Health,3,834.28
+2990,985,Towel Set,Home & Kitchen,4,861.36
+2991,985,Sunscreen,Beauty,4,1594.98
+2992,985,Honey,Food,4,595.1
+2993,985,Knife Set,Home & Kitchen,4,1426.9
+2994,986,Hair Oil,Beauty,3,1105.63
+2995,986,Hair Oil,Beauty,4,1930.84
+2996,986,Hair Oil,Beauty,3,396.66
+2997,986,Towel Set,Home & Kitchen,1,1936.89
+2998,986,Action Figure,Toys,1,315.44
+2999,987,Wireless Earbuds,Electronics,2,1613.16
+3000,988,AI Primer,Books,2,191.86
+3001,988,ML Guide,Books,1,1608.66
+3002,988,Face Cream,Beauty,2,60.86
+3003,989,Protein Bar,Food,2,1285.16
+3004,989,Stuffed Animal,Toys,2,1379.89
+3005,989,Resistance Band,Sports,3,1709.69

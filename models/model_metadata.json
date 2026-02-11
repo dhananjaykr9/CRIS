@@ -1,0 +1,23 @@
+{
+  "model_name": "Random Forest",
+  "pr_auc": 0.8739039509872844,
+  "roc_auc": 0.9259259259259259,
+  "f1": 0.6451612903225806,
+  "features": [
+    "recency_days",
+    "frequency",
+    "monetary",
+    "avg_order_value_lifetime",
+    "avg_order_value_last_3m",
+    "trend_ratio",
+    "orders_last_3m",
+    "orders_first_3m",
+    "cancel_rate",
+    "return_rate",
+    "unique_categories",
+    "avg_items_per_order",
+    "unique_products",
+    "avg_days_between_orders"
+  ],
+  "needs_scaling": false
+}

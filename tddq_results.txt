@@ -1,0 +1,37 @@
+============================================================
+  CRIS - Test-Driven Data Quality (TDDQ) Suite
+============================================================
+
+Running: test_leakage.sql
+--------------------------------------------------
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Changed database context to 'CRIS'.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] Feature data does not exceed observation window (max: 2024-06-28).
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] All recency_days values are non-negative.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] All labeled customers have matching feature rows.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] No feature calculations use prediction-window orders.
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]>>> Leakage tests complete.
+
+Running: test_schema.sql
+--------------------------------------------------
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Changed database context to 'CRIS'.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] customers.customer_id is unique.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] orders.order_id is unique.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] order_items.item_id is unique.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] customers: no NULL values in critical columns.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] orders: all customer_id references are valid.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] order_items: all order_id references are valid.
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]>>> Schema tests complete.
+
+Running: test_target_logic.sql
+--------------------------------------------------
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Changed database context to 'CRIS'.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] All is_churned=1 customers have zero prediction-window orders.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] All is_churned=0 customers have prediction-window orders.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] All labeled customers have observation-window activity.
+  [PASS] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server][PASS] is_churned contains only 0 and 1.
+  [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]>>> Target logic tests complete.
+
+============================================================
+  SUMMARY: 14 PASSED | 0 FAILED
+============================================================
+OK ALL TESTS PASSED - Data is clean and ready for modeling.
