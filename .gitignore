@@ -7,8 +7,9 @@ build/
 *.egg
 
 # Models
-models/*.pkl
-models/*.joblib
+# Models
+# models/*.pkl
+# models/*.joblib
 
 # Environment
 .env
@@ -30,3 +31,5 @@ sqlserver_data/
 # OS
 .DS_Store
 Thumbs.db
+
+project_info.md
