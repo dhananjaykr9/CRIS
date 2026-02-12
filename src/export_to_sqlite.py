@@ -26,17 +26,23 @@ def export_data():
     try:
         customers = run_query("SELECT * FROM dbo.customers")
         features = run_query("SELECT * FROM dbo.customer_features")
+        labels = run_query("SELECT * FROM dbo.customer_labels")
+        orders = run_query("SELECT * FROM dbo.orders")
+        items = run_query("SELECT * FROM dbo.order_items")
     except Exception as e:
         print(f"❌ Failed to connect to SQL Server: {e}")
         print("Make sure your Docker container is running!")
         return
 
     # 2. Write to SQLite
-    print(f"  writing {len(customers)} customers and {len(features)} feature rows...")
+    print(f"  writing tables to SQLite...")
     
     with sqlite3.connect(DB_PATH) as conn:
         customers.to_sql("customers", conn, if_exists="replace", index=False)
         features.to_sql("customer_features", conn, if_exists="replace", index=False)
+        labels.to_sql("customer_labels", conn, if_exists="replace", index=False)
+        orders.to_sql("orders", conn, if_exists="replace", index=False)
+        items.to_sql("order_items", conn, if_exists="replace", index=False)
         
     print("✅ Export complete! You can now push 'data/cris.db' to GitHub.")
 

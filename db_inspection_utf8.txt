@@ -1,0 +1,7 @@
+Tables: ['customers', 'customer_features']
+
+Table: customers
+Columns: ['customer_id', 'name', 'email', 'signup_date', 'region', 'segment']
+
+Table: customer_features
+Columns: ['customer_id', 'recency_days', 'frequency', 'monetary', 'avg_order_value_lifetime', 'avg_order_value_last_3m', 'trend_ratio', 'orders_last_3m', 'orders_first_3m', 'cancel_rate', 'return_rate', 'unique_categories', 'avg_items_per_order', 'unique_products', 'avg_days_between_orders']

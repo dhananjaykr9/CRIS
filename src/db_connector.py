@@ -18,7 +18,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SQLITE_DB_PATH = PROJECT_ROOT / "data" / "cris.db"
 
 DB_CONFIG = {
-    "server": os.getenv("CRIS_DB_SERVER", "localhost"),
+    "server": os.getenv("CRIS_DB_SERVER", "127.0.0.1"),
     "port": os.getenv("CRIS_DB_PORT", "1434"),
     "database": os.getenv("CRIS_DB_NAME", "CRIS"),
     "username": os.getenv("CRIS_DB_USER", "sa"),
@@ -46,7 +46,8 @@ def get_engine(include_db: bool = True):
         # SQLite connection
         if not SQLITE_DB_PATH.exists():
             raise FileNotFoundError(f"SQLite DB not found at {SQLITE_DB_PATH}. Run src/export_to_sqlite.py first.")
-        return create_engine(f"sqlite:///{SQLITE_DB_PATH}", echo=False)
+        # Ensure forward slashes for Windows compatibility
+        return create_engine(f"sqlite:///{SQLITE_DB_PATH.as_posix()}", echo=False)
     
     # SQL Server connection
     conn_str = get_connection_string(include_db)
